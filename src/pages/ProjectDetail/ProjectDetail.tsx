@@ -5,12 +5,12 @@ import type { MultimediaItem } from '../../types';
 import styles from './ProjectDetail.module.css';
 
 const LINK_ICONS: Record<string, string> = {
-  github: '🐙',
-  drive: '📁',
-  documento: '📄',
-  youtube: '▶️',
-  video: '🎬',
-  imagen: '🖼️',
+  github: '',
+  drive: '',
+  documento: '',
+  youtube: '▶',
+  video: '',
+  imagen: '',
 };
 
 const LINK_LABELS: Record<string, string> = {
@@ -81,7 +81,7 @@ function ProjectDetail() {
           <h1 class={styles.projectName}>{project()!.name}</h1>
           <Show when={project()!.subject}>
             <p class={styles.subjectLabel}>
-              📚 {project()!.subject}
+               {project()!.subject}
             </p>
           </Show>
         </div>
@@ -183,21 +183,18 @@ function ProjectDetail() {
         <Show when={project()!.team.length > 0}>
           <section class={styles.teamSection}>
             <p class={styles.teamTitle}>Equipo del proyecto</p>
-            <div class={styles.teamGrid}>
+            <ul class={styles.teamList}>
               <For each={project()!.team}>
                 {(member) => (
-                  <div class={styles.memberCard}>
-                    <div class={styles.memberAvatar}>
-                      {initials(member.name)}
-                    </div>
-                    <p class={styles.memberName}>{toTitleCase(member.name)}</p>
+                  <li class={styles.teamItem}>
                     <Show when={member.is_leader}>
-                      <span class={styles.leaderBadge}>Líder</span>
+                      <span class={styles.leaderStar} title="Líder"></span>
                     </Show>
-                  </div>
+                    {toTitleCase(member.name)}
+                  </li>
                 )}
               </For>
-            </div>
+            </ul>
           </section>
         </Show>
       </Show>
