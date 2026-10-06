@@ -6,7 +6,7 @@ import App from './App';
 import { Router, Route } from '@solidjs/router';
 
 //Pages
-import { NotFound, Home } from './pages';
+import { NotFound, Home, ProjectDetail } from './pages';
 
 const root = document.getElementById('root');
 
@@ -19,6 +19,7 @@ if (import.meta.env.DEV && !(root instanceof HTMLElement)) {
 render(() => (
   <Router root={App}>
     <Route path={"/"} component={Home} />
+    <Route path={"/project/:id"} component={ProjectDetail} />
     <Route path={"*paramName"} component={NotFound} />
   </Router>
 ), root!);

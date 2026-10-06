@@ -1,1 +1,64 @@
 @import 'tailwindcss';
+
+/* =========================================================
+   CSS Design Tokens — edit here to change the whole palette
+   ========================================================= */
+:root {
+  /* ── Brand colors ── */
+  --color-bg:            #0d0f14;
+  --color-surface:       #161a23;
+  --color-surface-2:     #1e2230;
+  --color-border:        rgba(255,255,255,0.08);
+
+  --color-primary:       #7c5cfc;
+  --color-primary-light: #a484ff;
+  --color-accent:        #fc5c7c;
+  --color-accent-2:      #38bdf8;
+
+  --color-text:          #f0f2f8;
+  --color-text-muted:    #8892a4;
+  --color-text-dim:      #4a5568;
+
+  /* ── Typography ── */
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-display: 'Outfit', var(--font-sans);
+
+  /* ── Spacing ── */
+  --radius-sm:  6px;
+  --radius-md:  12px;
+  --radius-lg:  20px;
+  --radius-xl:  32px;
+
+  /* ── Shadows / glows ── */
+  --shadow-card:  0 4px 24px rgba(0,0,0,0.4);
+  --glow-primary: 0 0 24px rgba(124,92,252,0.35);
+  --glow-accent:  0 0 24px rgba(252,92,124,0.3);
+
+  /* ── Transitions ── */
+  --transition-fast:   150ms ease;
+  --transition-normal: 250ms ease;
+  --transition-slow:   400ms ease;
+}
+
+/* ── Reset / Base ── */
+*, *::before, *::after { box-sizing: border-box; }
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; text-decoration: none; }
+img { display: block; max-width: 100%; }
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar        { width: 6px; height: 6px; }
+::-webkit-scrollbar-track  { background: var(--color-bg); }
+::-webkit-scrollbar-thumb  { background: var(--color-surface-2); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--color-primary); }
