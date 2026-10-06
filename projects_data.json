@@ -1,0 +1,4809 @@
+[
+  {
+    "id": "1",
+    "name": "plannio",
+    "description": "Proyecto de chats en tiempo real",
+    "status": "rechazado",
+    "cover": {
+      "id": "1",
+      "proyecto_id": "1",
+      "tipo": "imagen",
+      "url": "proyectos/posters/plannio.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 15:16:00",
+      "updated_at": "2026-05-12 16:09:42"
+    },
+    "videos": [
+      {
+        "id": "2",
+        "proyecto_id": "1",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/PVmA_P6svNA",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 15:26:42",
+        "updated_at": "2026-05-12 15:26:42"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "DANTE OMAR FERNANDEZ MANCILLA",
+        "is_leader": true
+      },
+      {
+        "name": "MARIA FERNANDA GONZALEZ RASCON",
+        "is_leader": false
+      },
+      {
+        "name": "SOFIA MONTSERRAT VILLEGAS BLANCO",
+        "is_leader": false
+      }
+    ],
+    "subject": "PROGRAMACION WEB I",
+    "category": "Programación"
+  },
+  {
+    "id": "2",
+    "name": "Prueba",
+    "description": "PruebaPruebaPruebaPruebaPruebaPruebaPruebaPruebaPruebaPruebaPrueba",
+    "status": "eliminado",
+    "cover": {
+      "id": "3",
+      "proyecto_id": "2",
+      "tipo": "imagen",
+      "url": "proyectos/posters/prueba.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 17:47:44",
+      "updated_at": "2026-05-12 17:51:50"
+    },
+    "videos": [
+      {
+        "id": "4",
+        "proyecto_id": "2",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/lmEvpvdeo9Y",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 17:51:50",
+        "updated_at": "2026-05-12 17:51:50"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "DANTE OMAR FERNANDEZ MANCILLA",
+        "is_leader": true
+      }
+    ],
+    "subject": "FUNDAMENTOS DEL DIBUJO ARTISTICO",
+    "category": "Arte"
+  },
+  {
+    "id": "3",
+    "name": "El mundial de mis sueños",
+    "description": "Un chico tras un mal sueño empieza a ver cómo su realidad se amolda a lo que aquella narcosis le enseño.",
+    "status": "aprobado",
+    "cover": {
+      "id": "5",
+      "proyecto_id": "3",
+      "tipo": "imagen",
+      "url": "proyectos/posters/el-mundial-de-mis-suenos.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 18:04:06",
+      "updated_at": "2026-05-12 18:06:42"
+    },
+    "videos": [
+      {
+        "id": "6",
+        "proyecto_id": "3",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/4Nxjbs6SMec",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 18:06:42",
+        "updated_at": "2026-05-12 18:06:42"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "7",
+        "proyecto_id": "3",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1H5ojU2Kewufie2F9b1BRwN_yaBCSMR7J?usp=drive_link",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 20:54:04",
+        "created_at": "2026-05-12 18:06:42",
+        "updated_at": "2026-05-20 20:54:04"
+      },
+      {
+        "id": "202",
+        "proyecto_id": "3",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1H5ojU2Kewufie2F9b1BRwN_yaBCSMR7J?usp=drive_link",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 20:54:36",
+        "created_at": "2026-05-20 20:54:04",
+        "updated_at": "2026-05-20 20:54:36"
+      },
+      {
+        "id": "203",
+        "proyecto_id": "3",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1H5ojU2Kewufie2F9b1BRwN_yaBCSMR7J?usp=drive_link",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 20:54:49",
+        "created_at": "2026-05-20 20:54:36",
+        "updated_at": "2026-05-20 20:54:49"
+      },
+      {
+        "id": "204",
+        "proyecto_id": "3",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1H5ojU2Kewufie2F9b1BRwN_yaBCSMR7J?usp=drive_link",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 20:54:49",
+        "updated_at": "2026-05-20 20:54:49"
+      }
+    ],
+    "team": [
+      {
+        "name": "MONSERRATH DIAZ TREJO",
+        "is_leader": true
+      },
+      {
+        "name": "MARIA DE LA LUZ GARZA VEGA",
+        "is_leader": false
+      },
+      {
+        "name": "YAEL PALOMO CARDENAS",
+        "is_leader": false
+      }
+    ],
+    "subject": "ILUMINACION Y AUDIO",
+    "category": "Arte"
+  },
+  {
+    "id": "4",
+    "name": "Haunted",
+    "description": "El jugador queda atrapado en una isla maldita en media de la noche, perseguido por el espíritu de una mujer de apariencia inquietante. El jugador tendrá que encontrar la manera de escapar antes de que ella lo alcance",
+    "status": "aprobado",
+    "cover": {
+      "id": "8",
+      "proyecto_id": "4",
+      "tipo": "imagen",
+      "url": "proyectos/posters/haunted.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 18:06:45",
+      "updated_at": "2026-05-12 18:34:18"
+    },
+    "videos": [
+      {
+        "id": "18",
+        "proyecto_id": "4",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/SCsxaIkNE_c",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 18:34:18",
+        "updated_at": "2026-05-12 18:34:18"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "207",
+        "proyecto_id": "4",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1A3WEILYovGWTIJ7cQRYnqSbk9ZYOQ3GM?usp=sharing",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:02:25",
+        "created_at": "2026-05-20 21:02:13",
+        "updated_at": "2026-05-20 21:02:25"
+      },
+      {
+        "id": "208",
+        "proyecto_id": "4",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1A3WEILYovGWTIJ7cQRYnqSbk9ZYOQ3GM?usp=sharing",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:02:46",
+        "created_at": "2026-05-20 21:02:25",
+        "updated_at": "2026-05-20 21:02:46"
+      },
+      {
+        "id": "209",
+        "proyecto_id": "4",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1A3WEILYovGWTIJ7cQRYnqSbk9ZYOQ3GM?usp=sharing",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:03:10",
+        "created_at": "2026-05-20 21:02:46",
+        "updated_at": "2026-05-20 21:03:10"
+      },
+      {
+        "id": "210",
+        "proyecto_id": "4",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1A3WEILYovGWTIJ7cQRYnqSbk9ZYOQ3GM?usp=sharing",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:03:44",
+        "created_at": "2026-05-20 21:03:10",
+        "updated_at": "2026-05-20 21:03:44"
+      },
+      {
+        "id": "212",
+        "proyecto_id": "4",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1A3WEILYovGWTIJ7cQRYnqSbk9ZYOQ3GM?usp=sharing",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:03:57",
+        "created_at": "2026-05-20 21:03:44",
+        "updated_at": "2026-05-20 21:03:57"
+      },
+      {
+        "id": "214",
+        "proyecto_id": "4",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1A3WEILYovGWTIJ7cQRYnqSbk9ZYOQ3GM?usp=sharing",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:03:57",
+        "updated_at": "2026-05-20 21:03:57"
+      }
+    ],
+    "team": [
+      {
+        "name": "ISACC ALEJANDRO CANIZALES CUEVAS",
+        "is_leader": true
+      },
+      {
+        "name": "JONATHAN ANTONIO GARCIA SALAZAR",
+        "is_leader": false
+      },
+      {
+        "name": "DULCE MARIA RIOS FLORES",
+        "is_leader": false
+      }
+    ],
+    "subject": "GRAFICAS COMPUTACIONALES II",
+    "category": "Videojuegos"
+  },
+  {
+    "id": "5",
+    "name": "RegiomonTacos",
+    "description": "RegiomonTacos es simulador 3D donde atiendes un puesto de tacos en un ambiente típico regiomontano con estilo caricaturesco.\nControlas a Don Chepo, un humilde señor que busca convertirse en el mejor taquero de Monterrey atendiendo a turistas durante el Mundial 2026.\nDeberás controlar diferentes aspectos de la cocina entregando las órdenes a tiempo y ¡CUIDADO! que no se te quemen las tortillas.",
+    "status": "aprobado",
+    "cover": {
+      "id": "9",
+      "proyecto_id": "5",
+      "tipo": "imagen",
+      "url": "proyectos/posters/regiomontacos.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 18:09:59",
+      "updated_at": "2026-05-12 18:46:10"
+    },
+    "videos": [
+      {
+        "id": "25",
+        "proyecto_id": "5",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/lvAzoVBUYBo",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 18:46:10",
+        "updated_at": "2026-05-12 18:46:10"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "26",
+        "proyecto_id": "5",
+        "tipo": "github",
+        "url": "https://github.com/Kamus-Ac/RegiomonTacos",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:10:26",
+        "created_at": "2026-05-12 18:46:10",
+        "updated_at": "2026-05-20 21:10:26"
+      },
+      {
+        "id": "218",
+        "proyecto_id": "5",
+        "tipo": "github",
+        "url": "https://github.com/Kamus-Ac/RegiomonTacos",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:10:32",
+        "created_at": "2026-05-20 21:10:26",
+        "updated_at": "2026-05-20 21:10:32"
+      },
+      {
+        "id": "219",
+        "proyecto_id": "5",
+        "tipo": "github",
+        "url": "https://github.com/Kamus-Ac/RegiomonTacos",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:11:22",
+        "created_at": "2026-05-20 21:10:32",
+        "updated_at": "2026-05-20 21:11:22"
+      },
+      {
+        "id": "220",
+        "proyecto_id": "5",
+        "tipo": "github",
+        "url": "https://github.com/Kamus-Ac/RegiomonTacos",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:11:35",
+        "created_at": "2026-05-20 21:11:22",
+        "updated_at": "2026-05-20 21:11:35"
+      },
+      {
+        "id": "221",
+        "proyecto_id": "5",
+        "tipo": "github",
+        "url": "https://github.com/Kamus-Ac/RegiomonTacos",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:12:08",
+        "created_at": "2026-05-20 21:11:35",
+        "updated_at": "2026-05-20 21:12:08"
+      },
+      {
+        "id": "222",
+        "proyecto_id": "5",
+        "tipo": "github",
+        "url": "https://github.com/Kamus-Ac/RegiomonTacos",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:12:26",
+        "created_at": "2026-05-20 21:12:08",
+        "updated_at": "2026-05-20 21:12:26"
+      },
+      {
+        "id": "223",
+        "proyecto_id": "5",
+        "tipo": "github",
+        "url": "https://github.com/Kamus-Ac/RegiomonTacos",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:12:52",
+        "created_at": "2026-05-20 21:12:26",
+        "updated_at": "2026-05-20 21:12:52"
+      },
+      {
+        "id": "224",
+        "proyecto_id": "5",
+        "tipo": "github",
+        "url": "https://github.com/Kamus-Ac/RegiomonTacos",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:13:03",
+        "created_at": "2026-05-20 21:12:52",
+        "updated_at": "2026-05-20 21:13:03"
+      },
+      {
+        "id": "225",
+        "proyecto_id": "5",
+        "tipo": "github",
+        "url": "https://github.com/Kamus-Ac/RegiomonTacos",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:13:15",
+        "created_at": "2026-05-20 21:13:04",
+        "updated_at": "2026-05-20 21:13:15"
+      },
+      {
+        "id": "226",
+        "proyecto_id": "5",
+        "tipo": "github",
+        "url": "https://github.com/Kamus-Ac/RegiomonTacos",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:13:15",
+        "updated_at": "2026-05-20 21:13:15"
+      }
+    ],
+    "team": [
+      {
+        "name": "IRIE MANUEL ACOSTA CASTILLO",
+        "is_leader": true
+      },
+      {
+        "name": "ERIC ZAHID LOPEZ PARRA",
+        "is_leader": false
+      },
+      {
+        "name": "ANGEL MANUEL SUSTAITA NAVARRO",
+        "is_leader": false
+      }
+    ],
+    "subject": "PROGRAMACION EN ENTRONOS TRIDIMENCIONALES",
+    "category": "Videojuegos"
+  },
+  {
+    "id": "6",
+    "name": "The Real Blood",
+    "description": "The Real Blood es un shooter en primera y tercera persona desarrollado en OpenGL, donde el jugador deberá escapar antes de que se agote el tiempo. Para sobrevivir, deberás explorar el mapa en busca de armas y botiquines mientras enfrenta enemigos que lo persiguen sin descanso. La salida está bloqueada y solo podrá abrirse encontrando una llave oculta escondida en el mapa.",
+    "status": "aprobado",
+    "cover": {
+      "id": "10",
+      "proyecto_id": "6",
+      "tipo": "imagen",
+      "url": "proyectos/posters/the-real-blood.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 18:13:08",
+      "updated_at": "2026-05-12 18:26:37"
+    },
+    "videos": [
+      {
+        "id": "13",
+        "proyecto_id": "6",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/pCZLA59zmHQ",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 18:26:37",
+        "updated_at": "2026-05-12 18:26:37"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "14",
+        "proyecto_id": "6",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Poo_5to/tree/master",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:18:13",
+        "created_at": "2026-05-12 18:26:37",
+        "updated_at": "2026-05-20 21:18:13"
+      },
+      {
+        "id": "231",
+        "proyecto_id": "6",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Poo_5to/tree/master",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:19:08",
+        "created_at": "2026-05-20 21:18:13",
+        "updated_at": "2026-05-20 21:19:08"
+      },
+      {
+        "id": "232",
+        "proyecto_id": "6",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Poo_5to/tree/master",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:19:25",
+        "created_at": "2026-05-20 21:19:08",
+        "updated_at": "2026-05-20 21:19:25"
+      },
+      {
+        "id": "233",
+        "proyecto_id": "6",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Poo_5to/tree/master",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:19:52",
+        "created_at": "2026-05-20 21:19:25",
+        "updated_at": "2026-05-20 21:19:52"
+      },
+      {
+        "id": "234",
+        "proyecto_id": "6",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Poo_5to/tree/master",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:20:30",
+        "created_at": "2026-05-20 21:19:52",
+        "updated_at": "2026-05-20 21:20:30"
+      },
+      {
+        "id": "238",
+        "proyecto_id": "6",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Poo_5to/tree/master",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:21:54",
+        "created_at": "2026-05-20 21:20:30",
+        "updated_at": "2026-05-20 21:21:54"
+      },
+      {
+        "id": "241",
+        "proyecto_id": "6",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Poo_5to/tree/master",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:22:01",
+        "created_at": "2026-05-20 21:21:54",
+        "updated_at": "2026-05-20 21:22:01"
+      },
+      {
+        "id": "242",
+        "proyecto_id": "6",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Poo_5to/tree/master",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:22:01",
+        "updated_at": "2026-05-20 21:22:01"
+      }
+    ],
+    "team": [
+      {
+        "name": "LEO JORDAN AMBRIZ GUTIERREZ",
+        "is_leader": true
+      }
+    ],
+    "subject": "PROGRAMACION ORIENTADA A OBJETOS",
+    "category": "Programación"
+  },
+  {
+    "id": "7",
+    "name": "Hockey 3000",
+    "description": "Mesa de hockey de la materia de Lógica Digital en donde se utilizaron un Arduino uno, luces led, pantalla LCD, buzzer, sensores ultrasónicos",
+    "status": "aprobado",
+    "cover": {
+      "id": "11",
+      "proyecto_id": "7",
+      "tipo": "imagen",
+      "url": "proyectos/posters/hockey-3000.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 18:15:47",
+      "updated_at": "2026-05-12 18:30:57"
+    },
+    "videos": [
+      {
+        "id": "15",
+        "proyecto_id": "7",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/VVKnwVG7ITc",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 18:30:57",
+        "updated_at": "2026-05-12 18:30:57"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "LUIS ANGEL GARZA GARCIA",
+        "is_leader": false
+      },
+      {
+        "name": "JAHIR ZAID LOZANO HERNANDEZ",
+        "is_leader": true
+      }
+    ],
+    "subject": "LOGICA DIGITAL",
+    "category": "Programación"
+  },
+  {
+    "id": "8",
+    "name": "GrouApp",
+    "description": "GrouApp es una red social diseñada para conectar y apoyar a padres, madres y\ncuidadores en cada etapa del desarrollo infantil, desde el embarazo hasta la crianza\ntemprana.\nEs una comunidad segura donde las familias pueden compartir experiencias,\nresolver dudas y encontrar consejos. A través de un sistema intuitivo de\npublicaciones por categorías como preguntas, consejos y crianza, los usuarios\npueden interactuar, guardar contenido relevante y seguir a otros miembros con\nintereses similares.",
+    "status": "aprobado",
+    "cover": {
+      "id": "12",
+      "proyecto_id": "8",
+      "tipo": "imagen",
+      "url": "proyectos/posters/grouapp.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 18:23:18",
+      "updated_at": "2026-05-12 18:32:47"
+    },
+    "videos": [
+      {
+        "id": "16",
+        "proyecto_id": "8",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/vbmSoG9RbRI",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 18:32:47",
+        "updated_at": "2026-05-12 18:32:47"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "17",
+        "proyecto_id": "8",
+        "tipo": "github",
+        "url": "https://github.com/Asael135/GrouApp",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:27:58",
+        "created_at": "2026-05-12 18:32:47",
+        "updated_at": "2026-05-20 21:27:58"
+      },
+      {
+        "id": "257",
+        "proyecto_id": "8",
+        "tipo": "github",
+        "url": "https://github.com/Asael135/GrouApp",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:28:00",
+        "created_at": "2026-05-20 21:27:58",
+        "updated_at": "2026-05-20 21:28:00"
+      },
+      {
+        "id": "258",
+        "proyecto_id": "8",
+        "tipo": "github",
+        "url": "https://github.com/Asael135/GrouApp",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:28:22",
+        "created_at": "2026-05-20 21:28:00",
+        "updated_at": "2026-05-20 21:28:22"
+      },
+      {
+        "id": "261",
+        "proyecto_id": "8",
+        "tipo": "github",
+        "url": "https://github.com/Asael135/GrouApp",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:28:22",
+        "updated_at": "2026-05-20 21:28:22"
+      }
+    ],
+    "team": [
+      {
+        "name": "AYLIN CELESTE RODRIGUEZ CAVAZOS",
+        "is_leader": true
+      },
+      {
+        "name": "BERNARDO ASAEL SÁNCHEZ HERNÁNDEZ",
+        "is_leader": false
+      }
+    ],
+    "subject": "PROGRAMACION DE SISTEMAS MOVILES",
+    "category": "Programación"
+  },
+  {
+    "id": "9",
+    "name": "ETERNACOPA",
+    "description": "Pagina web interactiva sobre la historia de los mundiales de fútbol, donde los usuarios pueden explorar, publicar y revivir los momentos más destacados de cada torneo con una experiencia accesible e intuitiva.",
+    "status": "aprobado",
+    "cover": {
+      "id": "19",
+      "proyecto_id": "9",
+      "tipo": "imagen",
+      "url": "proyectos/posters/eternacopa.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 18:36:23",
+      "updated_at": "2026-05-12 18:39:28"
+    },
+    "videos": [
+      {
+        "id": "20",
+        "proyecto_id": "9",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/-7k6IfQEgzU",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 18:39:28",
+        "updated_at": "2026-05-12 18:39:28"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "21",
+        "proyecto_id": "9",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/18oyG22fJbUdJd27p7oc06P5b6UUhkqbv?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:30:53",
+        "created_at": "2026-05-12 18:39:28",
+        "updated_at": "2026-05-20 21:30:53"
+      },
+      {
+        "id": "264",
+        "proyecto_id": "9",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/18oyG22fJbUdJd27p7oc06P5b6UUhkqbv?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:30:56",
+        "created_at": "2026-05-20 21:30:53",
+        "updated_at": "2026-05-20 21:30:56"
+      },
+      {
+        "id": "265",
+        "proyecto_id": "9",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/18oyG22fJbUdJd27p7oc06P5b6UUhkqbv?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:31:32",
+        "created_at": "2026-05-20 21:30:56",
+        "updated_at": "2026-05-20 21:31:32"
+      },
+      {
+        "id": "266",
+        "proyecto_id": "9",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/18oyG22fJbUdJd27p7oc06P5b6UUhkqbv?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:31:42",
+        "created_at": "2026-05-20 21:31:32",
+        "updated_at": "2026-05-20 21:31:42"
+      },
+      {
+        "id": "267",
+        "proyecto_id": "9",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/18oyG22fJbUdJd27p7oc06P5b6UUhkqbv?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:31:45",
+        "created_at": "2026-05-20 21:31:42",
+        "updated_at": "2026-05-20 21:31:45"
+      },
+      {
+        "id": "268",
+        "proyecto_id": "9",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/18oyG22fJbUdJd27p7oc06P5b6UUhkqbv?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:31:45",
+        "updated_at": "2026-05-20 21:31:45"
+      }
+    ],
+    "team": [
+      {
+        "name": "ALONDRA CORTEZ CHAVARRIA",
+        "is_leader": false
+      },
+      {
+        "name": "CARLOS HUMBERTO MENDEZ HERNANDEZ",
+        "is_leader": true
+      }
+    ],
+    "subject": "INTERFAZ Y EXPERIENCIA DE USUARIO",
+    "category": "Programación"
+  },
+  {
+    "id": "10",
+    "name": "Azucaris La Aventura de Armandillo",
+    "description": "¡Bienvenidos a Azucaris, el mundo más dulce y mágico que puedas imaginar! Aquí controlas a Armandillo, un músico amante de su cereal favorito, cuya mañana \nperfecta se arruina cuando el malvado Cucarachín le roba su preciada caja. Ahora toca embarcarse en una aventura épica para recuperarla.",
+    "status": "aprobado",
+    "cover": {
+      "id": "22",
+      "proyecto_id": "10",
+      "tipo": "imagen",
+      "url": "proyectos/posters/azucaris-la-aventura-de-armandillo.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 18:40:43",
+      "updated_at": "2026-05-12 18:54:30"
+    },
+    "videos": [
+      {
+        "id": "30",
+        "proyecto_id": "10",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/2bY6royWxAw",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 18:54:30",
+        "updated_at": "2026-05-12 18:54:30"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "283",
+        "proyecto_id": "10",
+        "tipo": "drive",
+        "url": "https://canva.link/l3167bfongamgh3",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:37:20",
+        "created_at": "2026-05-20 21:37:00",
+        "updated_at": "2026-05-20 21:37:20"
+      },
+      {
+        "id": "284",
+        "proyecto_id": "10",
+        "tipo": "github",
+        "url": "https://uanledu-my.sharepoint.com/my?id=%2Fpersonal%2Fgabriel%5Fmunoze%5Fuanl%5Fedu%5Fmx%2FDocuments%2FAzurcaris&ga=1",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:37:20",
+        "created_at": "2026-05-20 21:37:00",
+        "updated_at": "2026-05-20 21:37:20"
+      },
+      {
+        "id": "286",
+        "proyecto_id": "10",
+        "tipo": "drive",
+        "url": "https://canva.link/l3167bfongamgh3",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:37:20",
+        "updated_at": "2026-05-20 21:37:20"
+      },
+      {
+        "id": "287",
+        "proyecto_id": "10",
+        "tipo": "github",
+        "url": "https://uanledu-my.sharepoint.com/my?id=%2Fpersonal%2Fgabriel%5Fmunoze%5Fuanl%5Fedu%5Fmx%2FDocuments%2FAzurcaris&ga=1",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:37:20",
+        "updated_at": "2026-05-20 21:37:20"
+      }
+    ],
+    "team": [
+      {
+        "name": "NADIA GUADALUPE BARBOZA SANCHEZ",
+        "is_leader": false
+      },
+      {
+        "name": "JOSE GABRIEL MUÑOZ ESPINOZA",
+        "is_leader": false
+      },
+      {
+        "name": "LEONARDO DANIEL OLIVARES GARZA",
+        "is_leader": true
+      }
+    ],
+    "subject": "PROGRAMACION DE ENTORNOS BIDIMENSIONALES",
+    "category": "Videojuegos"
+  },
+  {
+    "id": "11",
+    "name": "VestSeller",
+    "description": "Es una aplicación de escritorio en C para controlar todo el proceso de venta de boletos mediante la \ngestión de disponibilidad de asientos por zonas, estadios, partidos.Permite el  acceso de acuerdo a roles de Administradores y Operativos.",
+    "status": "aprobado",
+    "cover": {
+      "id": "23",
+      "proyecto_id": "11",
+      "tipo": "imagen",
+      "url": "proyectos/posters/vestseller.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 18:42:52",
+      "updated_at": "2026-05-12 19:02:57"
+    },
+    "videos": [
+      {
+        "id": "31",
+        "proyecto_id": "11",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/rpiluq_R7vw",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 19:02:57",
+        "updated_at": "2026-05-12 19:02:57"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "296",
+        "proyecto_id": "11",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1kr36uKqoIbEh_jv3pkK7jqyMpT9kZt0S?usp=sharing",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:40:23",
+        "created_at": "2026-05-20 21:39:56",
+        "updated_at": "2026-05-20 21:40:23"
+      },
+      {
+        "id": "297",
+        "proyecto_id": "11",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1kr36uKqoIbEh_jv3pkK7jqyMpT9kZt0S?usp=sharing",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:40:25",
+        "created_at": "2026-05-20 21:40:23",
+        "updated_at": "2026-05-20 21:40:25"
+      },
+      {
+        "id": "298",
+        "proyecto_id": "11",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1kr36uKqoIbEh_jv3pkK7jqyMpT9kZt0S?usp=sharing",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:40:51",
+        "created_at": "2026-05-20 21:40:25",
+        "updated_at": "2026-05-20 21:40:51"
+      },
+      {
+        "id": "299",
+        "proyecto_id": "11",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1kr36uKqoIbEh_jv3pkK7jqyMpT9kZt0S?usp=sharing",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:41:02",
+        "created_at": "2026-05-20 21:40:51",
+        "updated_at": "2026-05-20 21:41:02"
+      },
+      {
+        "id": "300",
+        "proyecto_id": "11",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1kr36uKqoIbEh_jv3pkK7jqyMpT9kZt0S?usp=sharing",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:41:05",
+        "created_at": "2026-05-20 21:41:02",
+        "updated_at": "2026-05-20 21:41:05"
+      },
+      {
+        "id": "301",
+        "proyecto_id": "11",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1kr36uKqoIbEh_jv3pkK7jqyMpT9kZt0S?usp=sharing",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:41:40",
+        "created_at": "2026-05-20 21:41:05",
+        "updated_at": "2026-05-20 21:41:40"
+      },
+      {
+        "id": "302",
+        "proyecto_id": "11",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1kr36uKqoIbEh_jv3pkK7jqyMpT9kZt0S?usp=sharing",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:42:03",
+        "created_at": "2026-05-20 21:41:40",
+        "updated_at": "2026-05-20 21:42:03"
+      },
+      {
+        "id": "303",
+        "proyecto_id": "11",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1kr36uKqoIbEh_jv3pkK7jqyMpT9kZt0S?usp=sharing",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:42:29",
+        "created_at": "2026-05-20 21:42:03",
+        "updated_at": "2026-05-20 21:42:29"
+      },
+      {
+        "id": "304",
+        "proyecto_id": "11",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1kr36uKqoIbEh_jv3pkK7jqyMpT9kZt0S?usp=sharing",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:42:31",
+        "created_at": "2026-05-20 21:42:29",
+        "updated_at": "2026-05-20 21:42:31"
+      },
+      {
+        "id": "305",
+        "proyecto_id": "11",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1kr36uKqoIbEh_jv3pkK7jqyMpT9kZt0S?usp=sharing",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:42:31",
+        "updated_at": "2026-05-20 21:42:31"
+      }
+    ],
+    "team": [
+      {
+        "name": "EDUARDO VANOYE CHI",
+        "is_leader": true
+      },
+      {
+        "name": "NAOMI GUADALUPE VITELA GARCIA",
+        "is_leader": false
+      }
+    ],
+    "subject": "PROGRAMACION AVANZADA",
+    "category": "Programación"
+  },
+  {
+    "id": "12",
+    "name": "Hotel Inn",
+    "description": "El proyecto es un sistema de bases de datos para la gestión de una\ncadena ficticia de hoteles Hotel Inn en la que se pueden administrar las sucursales,\nclientes, empleados, contando con una interfaz atractiva e intuitiva, lo que la hace \ncómoda de usar.",
+    "status": "aprobado",
+    "cover": {
+      "id": "24",
+      "proyecto_id": "12",
+      "tipo": "imagen",
+      "url": "proyectos/posters/hotel-inn.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 18:45:41",
+      "updated_at": "2026-05-12 19:05:43"
+    },
+    "videos": [
+      {
+        "id": "32",
+        "proyecto_id": "12",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/CHJ7vrUDC_Q",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 19:05:43",
+        "updated_at": "2026-05-12 19:05:43"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "306",
+        "proyecto_id": "12",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1azgDOpvbMb6ht5m1hvOFfebP-4mRtN_0?usp=drive_link",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:45:39",
+        "created_at": "2026-05-20 21:45:31",
+        "updated_at": "2026-05-20 21:45:39"
+      },
+      {
+        "id": "307",
+        "proyecto_id": "12",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1azgDOpvbMb6ht5m1hvOFfebP-4mRtN_0?usp=drive_link",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:45:48",
+        "created_at": "2026-05-20 21:45:39",
+        "updated_at": "2026-05-20 21:45:48"
+      },
+      {
+        "id": "310",
+        "proyecto_id": "12",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1azgDOpvbMb6ht5m1hvOFfebP-4mRtN_0?usp=drive_link",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:45:49",
+        "created_at": "2026-05-20 21:45:48",
+        "updated_at": "2026-05-20 21:45:49"
+      },
+      {
+        "id": "311",
+        "proyecto_id": "12",
+        "tipo": "github",
+        "url": "https://drive.google.com/drive/folders/1azgDOpvbMb6ht5m1hvOFfebP-4mRtN_0?usp=drive_link",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:45:49",
+        "updated_at": "2026-05-20 21:45:49"
+      }
+    ],
+    "team": [
+      {
+        "name": "DAVID EMMANUEL ALEMAN SERNA",
+        "is_leader": true
+      },
+      {
+        "name": "YARED ALOR HERRERA",
+        "is_leader": false
+      }
+    ],
+    "subject": "PROGRAMACION AVANZADA",
+    "category": "Programación"
+  },
+  {
+    "id": "13",
+    "name": "PAWN KiNG",
+    "description": "Tras ser engañado por un hechicero que lo encierra en un juego de ajedrez, un rey ahora convertido en peón tendrá que enfrentarse a distintas piezas enemigas para liberarse mientras aprende nuevos poderes en el camino. Conviértete en un rey queriendo recuperar su trono y dale jaque mate a quien se te atraviese en este juego plataformero 2D con temática medieval y fantasía desarrollado en un tablero de ajedrez.",
+    "status": "aprobado",
+    "cover": {
+      "id": "27",
+      "proyecto_id": "13",
+      "tipo": "imagen",
+      "url": "proyectos/posters/pawn-king.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 18:48:46",
+      "updated_at": "2026-05-12 19:10:00"
+    },
+    "videos": [
+      {
+        "id": "34",
+        "proyecto_id": "13",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/Hed5MCOcYxU",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 19:10:00",
+        "updated_at": "2026-05-12 19:10:00"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "35",
+        "proyecto_id": "13",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1Ctbkzq3uZSB35eWpJ7Dh3wl3JnUMqvRs?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:03:38",
+        "created_at": "2026-05-12 19:10:00",
+        "updated_at": "2026-05-20 21:03:38"
+      },
+      {
+        "id": "211",
+        "proyecto_id": "13",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1Ctbkzq3uZSB35eWpJ7Dh3wl3JnUMqvRs?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:03:50",
+        "created_at": "2026-05-20 21:03:38",
+        "updated_at": "2026-05-20 21:03:50"
+      },
+      {
+        "id": "213",
+        "proyecto_id": "13",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1Ctbkzq3uZSB35eWpJ7Dh3wl3JnUMqvRs?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:04:19",
+        "created_at": "2026-05-20 21:03:50",
+        "updated_at": "2026-05-20 21:04:19"
+      },
+      {
+        "id": "215",
+        "proyecto_id": "13",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1Ctbkzq3uZSB35eWpJ7Dh3wl3JnUMqvRs?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:04:28",
+        "created_at": "2026-05-20 21:04:19",
+        "updated_at": "2026-05-20 21:04:28"
+      },
+      {
+        "id": "216",
+        "proyecto_id": "13",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1Ctbkzq3uZSB35eWpJ7Dh3wl3JnUMqvRs?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:06:44",
+        "created_at": "2026-05-20 21:04:28",
+        "updated_at": "2026-05-20 21:06:44"
+      },
+      {
+        "id": "217",
+        "proyecto_id": "13",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1Ctbkzq3uZSB35eWpJ7Dh3wl3JnUMqvRs?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:06:44",
+        "updated_at": "2026-05-20 21:06:44"
+      }
+    ],
+    "team": [
+      {
+        "name": "JULIAN ALEJANDRO OBREGON DELGADO",
+        "is_leader": true
+      },
+      {
+        "name": "DAVID EMMANUEL ALEMAN SERNA",
+        "is_leader": false
+      },
+      {
+        "name": "YARED ALOR HERRERA",
+        "is_leader": false
+      }
+    ],
+    "subject": "PROGRAMACION DE ENTORNOS BIDIMENSIONALES",
+    "category": "Videojuegos"
+  },
+  {
+    "id": "14",
+    "name": "CHAMPS",
+    "description": "CHAMPS es un simulador que combina la actividad física con la emoción del fútbol y la tecnología. Se centra en poder detener la pelota, tal y como lo haría un portero.\nLa movilidad se basa en un haptico, Dividido en dos guantes, que posicionan las manos a la altura correcta en el juego, y la rodillera, que sirve para que el jugador pueda desplazarse de izquierda a derecha.",
+    "status": "aprobado",
+    "cover": {
+      "id": "28",
+      "proyecto_id": "14",
+      "tipo": "imagen",
+      "url": "proyectos/posters/champs.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 18:52:08",
+      "updated_at": "2026-05-12 19:07:21"
+    },
+    "videos": [
+      {
+        "id": "33",
+        "proyecto_id": "14",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/ckXPOQ5bW5E",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 19:07:21",
+        "updated_at": "2026-05-12 19:07:21"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "DAIRA YAMILE AGUILAR CASTRO",
+        "is_leader": true
+      },
+      {
+        "name": "JORGE DAMIAN FELIZARDO HERNÁNDEZ",
+        "is_leader": false
+      }
+    ],
+    "subject": "REALIDAD VIRTUAL",
+    "category": "Realidad Virtual"
+  },
+  {
+    "id": "15",
+    "name": "ECommerce Sitios Web",
+    "description": "Simulación de sitio de ecommerce con modelo de club de precios. Funciona bajo membresía solo los socios pueden comprar, ya sea en línea o tienda física. Ofrece categorías como electrónica, hogar, alimentos, ropa y farmacia. La entrega puede ser a domicilio o para recoger en club, con seguimiento básico de pedido",
+    "status": "aprobado",
+    "cover": {
+      "id": "29",
+      "proyecto_id": "15",
+      "tipo": "imagen",
+      "url": "proyectos/posters/ecommerce-sitios-web.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 18:53:50",
+      "updated_at": "2026-05-12 19:12:03"
+    },
+    "videos": [
+      {
+        "id": "36",
+        "proyecto_id": "15",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/F6wVlj5qB9U",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 19:12:03",
+        "updated_at": "2026-05-12 19:12:03"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "37",
+        "proyecto_id": "15",
+        "tipo": "github",
+        "url": "https://github.com/JuanFarias-jpg/IYEU---Sams-club",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:13:37",
+        "created_at": "2026-05-12 19:12:03",
+        "updated_at": "2026-05-20 21:13:37"
+      },
+      {
+        "id": "227",
+        "proyecto_id": "15",
+        "tipo": "github",
+        "url": "https://github.com/JuanFarias-jpg/IYEU---Sams-club",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:13:58",
+        "created_at": "2026-05-20 21:13:37",
+        "updated_at": "2026-05-20 21:13:58"
+      },
+      {
+        "id": "228",
+        "proyecto_id": "15",
+        "tipo": "github",
+        "url": "https://github.com/JuanFarias-jpg/IYEU---Sams-club",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:14:06",
+        "created_at": "2026-05-20 21:13:58",
+        "updated_at": "2026-05-20 21:14:06"
+      },
+      {
+        "id": "229",
+        "proyecto_id": "15",
+        "tipo": "github",
+        "url": "https://github.com/JuanFarias-jpg/IYEU---Sams-club",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:14:15",
+        "created_at": "2026-05-20 21:14:06",
+        "updated_at": "2026-05-20 21:14:15"
+      },
+      {
+        "id": "230",
+        "proyecto_id": "15",
+        "tipo": "github",
+        "url": "https://github.com/JuanFarias-jpg/IYEU---Sams-club",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:14:15",
+        "updated_at": "2026-05-20 21:14:15"
+      }
+    ],
+    "team": [
+      {
+        "name": "JUAN PABLO FARIAS GARCIA",
+        "is_leader": false
+      },
+      {
+        "name": "MARCO GAEL SANCHEZ ALVAREZ",
+        "is_leader": true
+      }
+    ],
+    "subject": "INTERFAZ Y EXPERIENCIA DE USUARIO",
+    "category": "Programación"
+  },
+  {
+    "id": "16",
+    "name": "Last Frame",
+    "description": "Adéntrate en un bosque prehistórico lleno de peligros y dinosaurios al acecho. Como fotógrafo enviado millones de años al pasado por una organización secreta, deberás completar objetivos y capturar evidencias antes de perder tus 3 vidas. Usa el flash de tu cámara para defenderte, toma fotos únicas ¡incluso selfies! y administra tu galería mientras sobrevives en esta peligrosa expedición.",
+    "status": "aprobado",
+    "cover": {
+      "id": "38",
+      "proyecto_id": "16",
+      "tipo": "imagen",
+      "url": "proyectos/posters/last-frame.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 19:14:18",
+      "updated_at": "2026-05-12 19:19:25"
+    },
+    "videos": [
+      {
+        "id": "41",
+        "proyecto_id": "16",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/to9M5MEr2fE",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 19:19:25",
+        "updated_at": "2026-05-12 19:19:25"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "42",
+        "proyecto_id": "16",
+        "tipo": "github",
+        "url": "https://github.com/dukkzyx/lastframe.git",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:20:05",
+        "created_at": "2026-05-12 19:19:25",
+        "updated_at": "2026-05-20 21:20:05"
+      },
+      {
+        "id": "235",
+        "proyecto_id": "16",
+        "tipo": "github",
+        "url": "https://github.com/dukkzyx/lastframe.git",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:20:13",
+        "created_at": "2026-05-20 21:20:05",
+        "updated_at": "2026-05-20 21:20:13"
+      },
+      {
+        "id": "236",
+        "proyecto_id": "16",
+        "tipo": "github",
+        "url": "https://github.com/dukkzyx/lastframe.git",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:20:20",
+        "created_at": "2026-05-20 21:20:13",
+        "updated_at": "2026-05-20 21:20:20"
+      },
+      {
+        "id": "237",
+        "proyecto_id": "16",
+        "tipo": "github",
+        "url": "https://github.com/dukkzyx/lastframe.git",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:20:31",
+        "created_at": "2026-05-20 21:20:20",
+        "updated_at": "2026-05-20 21:20:31"
+      },
+      {
+        "id": "239",
+        "proyecto_id": "16",
+        "tipo": "github",
+        "url": "https://github.com/dukkzyx/lastframe.git",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:20:40",
+        "created_at": "2026-05-20 21:20:31",
+        "updated_at": "2026-05-20 21:20:40"
+      },
+      {
+        "id": "240",
+        "proyecto_id": "16",
+        "tipo": "github",
+        "url": "https://github.com/dukkzyx/lastframe.git",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:22:17",
+        "created_at": "2026-05-20 21:20:40",
+        "updated_at": "2026-05-20 21:22:17"
+      },
+      {
+        "id": "243",
+        "proyecto_id": "16",
+        "tipo": "github",
+        "url": "https://github.com/dukkzyx/lastframe.git",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:22:19",
+        "created_at": "2026-05-20 21:22:17",
+        "updated_at": "2026-05-20 21:22:19"
+      },
+      {
+        "id": "244",
+        "proyecto_id": "16",
+        "tipo": "github",
+        "url": "https://github.com/dukkzyx/lastframe.git",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:22:45",
+        "created_at": "2026-05-20 21:22:19",
+        "updated_at": "2026-05-20 21:22:45"
+      },
+      {
+        "id": "245",
+        "proyecto_id": "16",
+        "tipo": "github",
+        "url": "https://github.com/dukkzyx/lastframe.git",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:22:45",
+        "updated_at": "2026-05-20 21:22:45"
+      }
+    ],
+    "team": [
+      {
+        "name": "LUIS DIEGO DE LA FUENTE RODRIGUEZ",
+        "is_leader": false
+      },
+      {
+        "name": "BÁRBARA DANIELA FLORES ALFARO",
+        "is_leader": false
+      },
+      {
+        "name": "KENYA LULU HERNANDEZ HUERTA",
+        "is_leader": false
+      },
+      {
+        "name": "JESUS FRANCISCO VALDES LARA",
+        "is_leader": true
+      }
+    ],
+    "subject": "DISEÑO DE HAPTICOS",
+    "category": "Videojuegos"
+  },
+  {
+    "id": "17",
+    "name": "Tiny Kitchen",
+    "description": "En Tiny Kitchen, un famoso chef queda reducido al tamaño de un insecto tras preparar mal\nuna sopa experimental. Atrapado en una cocina ahora gigantesca y peligrosa, deberá explorar escenarios llenos de obstáculos, plataformas y amenazas mientras recolecta cinco ingredientes especiales antes de que el efecto sea permanente. Todo esto en una carrera\ncontrarreloj de 20 minutos.",
+    "status": "aprobado",
+    "cover": {
+      "id": "39",
+      "proyecto_id": "17",
+      "tipo": "imagen",
+      "url": "proyectos/posters/tiny-kitchen.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 19:17:28",
+      "updated_at": "2026-05-12 19:22:20"
+    },
+    "videos": [
+      {
+        "id": "45",
+        "proyecto_id": "17",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/4t7pjRkmwYI",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 19:22:20",
+        "updated_at": "2026-05-12 19:22:20"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "46",
+        "proyecto_id": "17",
+        "tipo": "github",
+        "url": "https://github.com/JuanFarias-jpg/tinykitchen",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:24:42",
+        "created_at": "2026-05-12 19:22:20",
+        "updated_at": "2026-05-20 21:24:42"
+      },
+      {
+        "id": "246",
+        "proyecto_id": "17",
+        "tipo": "github",
+        "url": "https://github.com/JuanFarias-jpg/tinykitchen",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:24:50",
+        "created_at": "2026-05-20 21:24:42",
+        "updated_at": "2026-05-20 21:24:50"
+      },
+      {
+        "id": "247",
+        "proyecto_id": "17",
+        "tipo": "github",
+        "url": "https://github.com/JuanFarias-jpg/tinykitchen",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:25:04",
+        "created_at": "2026-05-20 21:24:50",
+        "updated_at": "2026-05-20 21:25:04"
+      },
+      {
+        "id": "248",
+        "proyecto_id": "17",
+        "tipo": "github",
+        "url": "https://github.com/JuanFarias-jpg/tinykitchen",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:25:36",
+        "created_at": "2026-05-20 21:25:04",
+        "updated_at": "2026-05-20 21:25:36"
+      },
+      {
+        "id": "249",
+        "proyecto_id": "17",
+        "tipo": "github",
+        "url": "https://github.com/JuanFarias-jpg/tinykitchen",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:25:46",
+        "created_at": "2026-05-20 21:25:36",
+        "updated_at": "2026-05-20 21:25:46"
+      },
+      {
+        "id": "250",
+        "proyecto_id": "17",
+        "tipo": "github",
+        "url": "https://github.com/JuanFarias-jpg/tinykitchen",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:25:55",
+        "created_at": "2026-05-20 21:25:46",
+        "updated_at": "2026-05-20 21:25:55"
+      },
+      {
+        "id": "251",
+        "proyecto_id": "17",
+        "tipo": "github",
+        "url": "https://github.com/JuanFarias-jpg/tinykitchen",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:25:57",
+        "created_at": "2026-05-20 21:25:55",
+        "updated_at": "2026-05-20 21:25:57"
+      },
+      {
+        "id": "252",
+        "proyecto_id": "17",
+        "tipo": "github",
+        "url": "https://github.com/JuanFarias-jpg/tinykitchen",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:26:21",
+        "created_at": "2026-05-20 21:25:57",
+        "updated_at": "2026-05-20 21:26:21"
+      },
+      {
+        "id": "253",
+        "proyecto_id": "17",
+        "tipo": "github",
+        "url": "https://github.com/JuanFarias-jpg/tinykitchen",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:26:21",
+        "updated_at": "2026-05-20 21:26:21"
+      }
+    ],
+    "team": [
+      {
+        "name": "JUAN PABLO FARIAS GARCIA",
+        "is_leader": false
+      },
+      {
+        "name": "KENYA LULU HERNANDEZ HUERTA",
+        "is_leader": false
+      },
+      {
+        "name": "MARCO GAEL SANCHEZ ALVAREZ",
+        "is_leader": true
+      },
+      {
+        "name": "JESUS FRANCISCO VALDES LARA",
+        "is_leader": false
+      }
+    ],
+    "subject": "PROGRAMACION EN ENTRONOS TRIDIMENCIONALES",
+    "category": "Videojuegos"
+  },
+  {
+    "id": "18",
+    "name": "Rugido de volcán",
+    "description": "Ilustración tipo splashart de un personaje e historia inspirado en el fútbol regiomontano y juvenil. El proyecto explora la identidad de un jugador de fuerzas básicas de Tigris FC y su entorno para que se puedan transmitir las intensas emociones que se viven en este deporte.",
+    "status": "aprobado",
+    "cover": {
+      "id": "40",
+      "proyecto_id": "18",
+      "tipo": "imagen",
+      "url": "proyectos/posters/rugido-de-volcan.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 19:18:49",
+      "updated_at": "2026-05-12 19:25:19"
+    },
+    "videos": [
+      {
+        "id": "48",
+        "proyecto_id": "18",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/CX-2VIkKueQ",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 19:25:19",
+        "updated_at": "2026-05-12 19:25:19"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "49",
+        "proyecto_id": "18",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1QdcoSteHVum92wL-zVJmx98vrjm2DnDe?usp=drive_link",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:27:57",
+        "created_at": "2026-05-12 19:25:19",
+        "updated_at": "2026-05-20 21:27:57"
+      },
+      {
+        "id": "256",
+        "proyecto_id": "18",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1QdcoSteHVum92wL-zVJmx98vrjm2DnDe?usp=drive_link",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:28:04",
+        "created_at": "2026-05-20 21:27:57",
+        "updated_at": "2026-05-20 21:28:04"
+      },
+      {
+        "id": "259",
+        "proyecto_id": "18",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1QdcoSteHVum92wL-zVJmx98vrjm2DnDe?usp=drive_link",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:28:09",
+        "created_at": "2026-05-20 21:28:04",
+        "updated_at": "2026-05-20 21:28:09"
+      },
+      {
+        "id": "260",
+        "proyecto_id": "18",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1QdcoSteHVum92wL-zVJmx98vrjm2DnDe?usp=drive_link",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:28:09",
+        "updated_at": "2026-05-20 21:28:09"
+      }
+    ],
+    "team": [
+      {
+        "name": "LAURA DENISSE PALACIOS FIGUEROA",
+        "is_leader": true
+      }
+    ],
+    "subject": "ILUSTRACION DIGITAL",
+    "category": "Arte"
+  },
+  {
+    "id": "19",
+    "name": "Un Lugar en el Mundial",
+    "description": "Jesús, un chico que siempre amó el fútbol. Su sueño siempre fue estar en un mundial, participando como futbolista, pero nunca pudo llegar a dedicarse a eso. Ahora que el mundial se celebra en México, él va a vender sus aguas frescas para poder ir y ser parte aún si es desde afuera.\nSe encuentra obstáculos que lo hacen dudar de su amor al deporte, pero al final, nadie puede arrebatarle que cumplió su sueño de estar en el mundial.",
+    "status": "aprobado",
+    "cover": {
+      "id": "43",
+      "proyecto_id": "19",
+      "tipo": "imagen",
+      "url": "proyectos/posters/un-lugar-en-el-mundial.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 19:19:39",
+      "updated_at": "2026-05-12 19:24:48"
+    },
+    "videos": [
+      {
+        "id": "47",
+        "proyecto_id": "19",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/e3fhZA2X630",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 19:24:48",
+        "updated_at": "2026-05-12 19:24:48"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "KAYLA DESSIRE CONTRERAS CANTU",
+        "is_leader": true
+      }
+    ],
+    "subject": "ILUMINACION Y AUDIO",
+    "category": "Arte"
+  },
+  {
+    "id": "20",
+    "name": "It's Saturday Bajo la lluvia",
+    "description": "En esta antología del universo Its Saturday, exploramos el origen de la relación de Jenna y Joel.",
+    "status": "aprobado",
+    "cover": {
+      "id": "44",
+      "proyecto_id": "20",
+      "tipo": "imagen",
+      "url": "proyectos/posters/its-saturday-bajo-la-lluvia.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 19:20:31",
+      "updated_at": "2026-05-12 19:27:08"
+    },
+    "videos": [
+      {
+        "id": "50",
+        "proyecto_id": "20",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/kQkC2dh2cTU",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 19:27:08",
+        "updated_at": "2026-05-12 19:27:08"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "51",
+        "proyecto_id": "20",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/13TyM0SsAmCfKE4XYW0P05PLqqp-eOQzz",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:32:55",
+        "created_at": "2026-05-12 19:27:08",
+        "updated_at": "2026-05-20 21:32:55"
+      },
+      {
+        "id": "269",
+        "proyecto_id": "20",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/13TyM0SsAmCfKE4XYW0P05PLqqp-eOQzz",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:33:04",
+        "created_at": "2026-05-20 21:32:55",
+        "updated_at": "2026-05-20 21:33:04"
+      },
+      {
+        "id": "270",
+        "proyecto_id": "20",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/13TyM0SsAmCfKE4XYW0P05PLqqp-eOQzz",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:33:07",
+        "created_at": "2026-05-20 21:33:04",
+        "updated_at": "2026-05-20 21:33:07"
+      },
+      {
+        "id": "271",
+        "proyecto_id": "20",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/13TyM0SsAmCfKE4XYW0P05PLqqp-eOQzz",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:33:32",
+        "created_at": "2026-05-20 21:33:07",
+        "updated_at": "2026-05-20 21:33:32"
+      },
+      {
+        "id": "272",
+        "proyecto_id": "20",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/13TyM0SsAmCfKE4XYW0P05PLqqp-eOQzz",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:33:35",
+        "created_at": "2026-05-20 21:33:32",
+        "updated_at": "2026-05-20 21:33:35"
+      },
+      {
+        "id": "273",
+        "proyecto_id": "20",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/13TyM0SsAmCfKE4XYW0P05PLqqp-eOQzz",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:34:03",
+        "created_at": "2026-05-20 21:33:35",
+        "updated_at": "2026-05-20 21:34:03"
+      },
+      {
+        "id": "274",
+        "proyecto_id": "20",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/13TyM0SsAmCfKE4XYW0P05PLqqp-eOQzz",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:34:18",
+        "created_at": "2026-05-20 21:34:03",
+        "updated_at": "2026-05-20 21:34:18"
+      },
+      {
+        "id": "275",
+        "proyecto_id": "20",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/13TyM0SsAmCfKE4XYW0P05PLqqp-eOQzz",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:34:48",
+        "created_at": "2026-05-20 21:34:18",
+        "updated_at": "2026-05-20 21:34:48"
+      },
+      {
+        "id": "278",
+        "proyecto_id": "20",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/13TyM0SsAmCfKE4XYW0P05PLqqp-eOQzz",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:35:12",
+        "created_at": "2026-05-20 21:34:48",
+        "updated_at": "2026-05-20 21:35:12"
+      },
+      {
+        "id": "279",
+        "proyecto_id": "20",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/13TyM0SsAmCfKE4XYW0P05PLqqp-eOQzz",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:35:15",
+        "created_at": "2026-05-20 21:35:12",
+        "updated_at": "2026-05-20 21:35:15"
+      },
+      {
+        "id": "280",
+        "proyecto_id": "20",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/13TyM0SsAmCfKE4XYW0P05PLqqp-eOQzz",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:35:15",
+        "updated_at": "2026-05-20 21:35:15"
+      }
+    ],
+    "team": [
+      {
+        "name": "JESUS ALEJANDRO AGUILAR SANCHEZ",
+        "is_leader": true
+      }
+    ],
+    "subject": "ANIMACION TRADICIONAL DE ESCENARIOS",
+    "category": "Arte"
+  },
+  {
+    "id": "21",
+    "name": "HOUSIO",
+    "description": "Housio es una plataforma diseñada para revolucionar la búsqueda de vivienda para jóvenes en Monterrey. La aplicación integra las líneas del Metro para facilitar la movilidad urbana. Los usuarios pueden explorar propiedades, comunicarse directamente con propietarios a través de un chat en tiempo real, agendar visitas con un clic y recibir notificaciones instantáneas sobre nuevas oportunidades.",
+    "status": "aprobado",
+    "cover": {
+      "id": "52",
+      "proyecto_id": "21",
+      "tipo": "imagen",
+      "url": "proyectos/posters/housio.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 19:30:14",
+      "updated_at": "2026-05-12 19:38:55"
+    },
+    "videos": [
+      {
+        "id": "55",
+        "proyecto_id": "21",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/A30ToFWkz-o",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 19:38:55",
+        "updated_at": "2026-05-12 19:38:55"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "56",
+        "proyecto_id": "21",
+        "tipo": "github",
+        "url": "https://housio.onrender.com/",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:36:54",
+        "created_at": "2026-05-12 19:38:55",
+        "updated_at": "2026-05-20 21:36:54"
+      },
+      {
+        "id": "282",
+        "proyecto_id": "21",
+        "tipo": "github",
+        "url": "https://housio.onrender.com/",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:37:09",
+        "created_at": "2026-05-20 21:36:54",
+        "updated_at": "2026-05-20 21:37:09"
+      },
+      {
+        "id": "285",
+        "proyecto_id": "21",
+        "tipo": "github",
+        "url": "https://housio.onrender.com/",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:37:23",
+        "created_at": "2026-05-20 21:37:09",
+        "updated_at": "2026-05-20 21:37:23"
+      },
+      {
+        "id": "288",
+        "proyecto_id": "21",
+        "tipo": "github",
+        "url": "https://housio.onrender.com/",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:37:54",
+        "created_at": "2026-05-20 21:37:23",
+        "updated_at": "2026-05-20 21:37:54"
+      },
+      {
+        "id": "289",
+        "proyecto_id": "21",
+        "tipo": "github",
+        "url": "https://housio.onrender.com/",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:38:01",
+        "created_at": "2026-05-20 21:37:54",
+        "updated_at": "2026-05-20 21:38:01"
+      },
+      {
+        "id": "290",
+        "proyecto_id": "21",
+        "tipo": "github",
+        "url": "https://housio.onrender.com/",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:38:03",
+        "created_at": "2026-05-20 21:38:01",
+        "updated_at": "2026-05-20 21:38:03"
+      },
+      {
+        "id": "291",
+        "proyecto_id": "21",
+        "tipo": "github",
+        "url": "https://housio.onrender.com/",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:38:30",
+        "created_at": "2026-05-20 21:38:03",
+        "updated_at": "2026-05-20 21:38:30"
+      },
+      {
+        "id": "292",
+        "proyecto_id": "21",
+        "tipo": "github",
+        "url": "https://housio.onrender.com/",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:38:46",
+        "created_at": "2026-05-20 21:38:30",
+        "updated_at": "2026-05-20 21:38:46"
+      },
+      {
+        "id": "293",
+        "proyecto_id": "21",
+        "tipo": "github",
+        "url": "https://housio.onrender.com/",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:38:46",
+        "updated_at": "2026-05-20 21:38:46"
+      }
+    ],
+    "team": [
+      {
+        "name": "ISACC ALEJANDRO CANIZALES CUEVAS",
+        "is_leader": false
+      },
+      {
+        "name": "FERNANDO DIAZ TAMEZ",
+        "is_leader": false
+      },
+      {
+        "name": "JONATHAN ANTONIO GARCIA SALAZAR",
+        "is_leader": true
+      },
+      {
+        "name": "MONSERRAT MEZA MONTALVO",
+        "is_leader": false
+      }
+    ],
+    "subject": "PROGRAMACION WEB II",
+    "category": "Programación"
+  },
+  {
+    "id": "22",
+    "name": "Plannio",
+    "description": "Plannio es una aplicación web que realiza conexiones en tiempo real entre usuarios, con el uso de websockets, teniendo chats en tiempo real, llamadas y videollamadas privadas y grupales, cuenta sistema de gestion de tareas que asigna recompensas al ser completadas recompensas y un sistema de mapa para que los usuarios puedan conocer, recomendar y comentar lugares turísticos de Nuevo León.",
+    "status": "eliminado",
+    "cover": {
+      "id": "53",
+      "proyecto_id": "22",
+      "tipo": "imagen",
+      "url": "proyectos/posters/plannio.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 19:35:42",
+      "updated_at": "2026-05-12 19:43:17"
+    },
+    "videos": [
+      {
+        "id": "57",
+        "proyecto_id": "22",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/PVmA_P6svNA",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 19:43:17",
+        "updated_at": "2026-05-12 19:43:17"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "58",
+        "proyecto_id": "22",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1gKsjTzvSP0jEIAtRGwYTAh7JvaLeEn60",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 19:43:17",
+        "updated_at": "2026-05-12 19:43:17"
+      }
+    ],
+    "team": [
+      {
+        "name": "DANTE OMAR FERNANDEZ MANCILLA",
+        "is_leader": true
+      },
+      {
+        "name": "MARIA FERNANDA GONZALEZ RASCON",
+        "is_leader": false
+      },
+      {
+        "name": "SOFIA MONTSERRAT VILLEGAS BLANCO",
+        "is_leader": false
+      }
+    ],
+    "subject": "ADMINISTRACION DE PROYECTOS",
+    "category": "fundamental"
+  },
+  {
+    "id": "23",
+    "name": "TILEKICK",
+    "description": "TileKick es un  juego de batalla estratégica entre dos jugadores dentro de un tablero inestable. Basado en fútbol, consta en pensar y planear cada movimiento con cuidado. No gana quien se mueve más rápido, sino quien toma mejores decisiones. La cancha es un terreno que se va debilitando con el uso, lo que obliga a los jugadores a controlar el espacio y evitar errores. La estrategia y la anticipación son claves para ganar.",
+    "status": "aprobado",
+    "cover": {
+      "id": "54",
+      "proyecto_id": "23",
+      "tipo": "imagen",
+      "url": "proyectos/posters/tilekick.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 19:38:28",
+      "updated_at": "2026-05-12 19:46:23"
+    },
+    "videos": [
+      {
+        "id": "59",
+        "proyecto_id": "23",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/lCznFCOutNk",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 19:46:23",
+        "updated_at": "2026-05-12 19:46:23"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "60",
+        "proyecto_id": "23",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1tHkkReWoAfj5qbdyEmumaEsHa5Ocpu1e",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 20:58:50",
+        "created_at": "2026-05-12 19:46:23",
+        "updated_at": "2026-05-20 20:58:50"
+      },
+      {
+        "id": "205",
+        "proyecto_id": "23",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1tHkkReWoAfj5qbdyEmumaEsHa5Ocpu1e",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 20:59:13",
+        "created_at": "2026-05-20 20:58:50",
+        "updated_at": "2026-05-20 20:59:13"
+      },
+      {
+        "id": "206",
+        "proyecto_id": "23",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1tHkkReWoAfj5qbdyEmumaEsHa5Ocpu1e",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 20:59:13",
+        "updated_at": "2026-05-20 20:59:13"
+      }
+    ],
+    "team": [
+      {
+        "name": "DANTE OMAR FERNANDEZ MANCILLA",
+        "is_leader": true
+      },
+      {
+        "name": "MARIA FERNANDA GONZALEZ RASCON",
+        "is_leader": false
+      },
+      {
+        "name": "SOFIA MONTSERRAT VILLEGAS BLANCO",
+        "is_leader": false
+      }
+    ],
+    "subject": "GRAFICAS COMPUTACIONALES EN WEB",
+    "category": "Videojuegos"
+  },
+  {
+    "id": "24",
+    "name": "Corona de Escarcha",
+    "description": "En un mundo de fantasía, Thalassa, príncipe del reino de hielo se encuentra ante una inminente guerra entre reinos. El junto a sus amigos se enfrentan en una lucha entre reinos, la amistad, la familia y el linaje flaquean ante lo que el destino les depara.",
+    "status": "aprobado",
+    "cover": {
+      "id": "61",
+      "proyecto_id": "24",
+      "tipo": "imagen",
+      "url": "proyectos/posters/corona-de-escarcha.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 19:47:11",
+      "updated_at": "2026-05-12 19:50:00"
+    },
+    "videos": [
+      {
+        "id": "63",
+        "proyecto_id": "24",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/OwRR8gJLOM0",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 19:50:00",
+        "updated_at": "2026-05-12 19:50:00"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "SANDRA ISABEL SALAZAR TREVIÑO",
+        "is_leader": true
+      }
+    ],
+    "subject": "FUNDAMENTOS DEL DIBUJO ARTISTICO",
+    "category": "Arte"
+  },
+  {
+    "id": "25",
+    "name": "Patinando hasta el fin del mundo",
+    "description": "En este stop motion, otro sufrimiento más de despertar a las 5.00 a.m. con cara de ¿por qué sigo vivo?. Nuestro protagonista sale de casa con su estilo grunge, una bebida energética solo para descubrir que ya no queda nadie en la ciudad. Recorriendo calles vacías con su patineta entre luces neón, lo que parecía una mañana tranquila termina en una inesperada invasión alienígena. Esos extraterrestreses que nunca debes meterte con alguien que anda desvelado, con cafeína y una patineta en la mano.",
+    "status": "aprobado",
+    "cover": {
+      "id": "62",
+      "proyecto_id": "25",
+      "tipo": "imagen",
+      "url": "proyectos/posters/patinando-hasta-el-fin-del-mundo.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 19:49:35",
+      "updated_at": "2026-05-12 19:58:04"
+    },
+    "videos": [
+      {
+        "id": "66",
+        "proyecto_id": "25",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/dEq7JKIPcHM",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 19:58:04",
+        "updated_at": "2026-05-12 19:58:04"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "JESUS JOEL ALMAZAN MONTOYA",
+        "is_leader": true
+      },
+      {
+        "name": "INGRID ALEIDA ROSAS REYNA",
+        "is_leader": false
+      },
+      {
+        "name": "PAULO SEBASTIAN URBINA MOLINA",
+        "is_leader": false
+      },
+      {
+        "name": "EVELYN ALEJANDRA VILLANUEVA HERRERA",
+        "is_leader": false
+      }
+    ],
+    "subject": "TECNOLOGIAS MULTIMEDIA",
+    "category": "Arte"
+  },
+  {
+    "id": "26",
+    "name": "Puntualidad",
+    "description": "En Monterrey, miles de personas viven atrapadas en\ntrayectos interminables. Lo que debería ser un recorrido de treinta minutos se convierte en horas de espera, cansancio y frustración, reflejando la impotencia de quienes dependen de un sistema de transporte transporte que no siempre responde a sus necesidades.",
+    "status": "aprobado",
+    "cover": {
+      "id": "64",
+      "proyecto_id": "26",
+      "tipo": "imagen",
+      "url": "proyectos/posters/puntualidad.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 19:54:36",
+      "updated_at": "2026-05-12 20:01:58"
+    },
+    "videos": [
+      {
+        "id": "68",
+        "proyecto_id": "26",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/sy1vrCJiUuE",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 20:01:58",
+        "updated_at": "2026-05-12 20:01:58"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "NARAYANI CABRERA CARRERA",
+        "is_leader": true
+      }
+    ],
+    "subject": "ANIMACION TRADICIONAL DE HUMANOS Y ANIMALES",
+    "category": "Arte"
+  },
+  {
+    "id": "27",
+    "name": "Muevo León Rush",
+    "description": "Muevo León Rush es un juego híbrido de ritmo y conducción. Tú, como un chofer de un autobús, debes de llegar a la parada lo más rápido posible siguiendo el ritmo de la canción mientras esquivas a los coches para mantener contentos a todos tus pasajeros a no ser que quieras ocasionar un accidente.\nEl háptico es un volante, tendrá la posibilidad de presionar botones para mantener el ritmo de la canción, donde el movimiento rotacional de este será para mover el camión y esquivar los obstáculos.",
+    "status": "rechazado",
+    "cover": {
+      "id": "65",
+      "proyecto_id": "27",
+      "tipo": "imagen",
+      "url": "proyectos/posters/muevo-leon-rush.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 19:57:39",
+      "updated_at": "2026-05-12 20:08:03"
+    },
+    "videos": [
+      {
+        "id": "70",
+        "proyecto_id": "27",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/q2n-8cXKITo",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 20:08:03",
+        "updated_at": "2026-05-12 20:08:03"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "71",
+        "proyecto_id": "27",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1rIQpcsC1y3AfPSpzT_uqDBMPk9iOdQev?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 20:08:03",
+        "updated_at": "2026-05-12 20:08:03"
+      },
+      {
+        "id": "72",
+        "proyecto_id": "27",
+        "tipo": "github",
+        "url": "https://github.com/Kamus-Ac/Muevo-Leon-Rush",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 20:08:03",
+        "updated_at": "2026-05-12 20:08:03"
+      }
+    ],
+    "team": [
+      {
+        "name": "IRIE MANUEL ACOSTA CASTILLO",
+        "is_leader": true
+      },
+      {
+        "name": "DAVID EDUARDO DIAZ VILLARREAL",
+        "is_leader": false
+      },
+      {
+        "name": "DANIELA VELEZ CECCOPIERI",
+        "is_leader": false
+      },
+      {
+        "name": "GUILLERMO ALEJANDRO VILLEGAS OBREGON",
+        "is_leader": false
+      }
+    ],
+    "subject": "DISEÑO DE HAPTICOS",
+    "category": "Videojuegos"
+  },
+  {
+    "id": "28",
+    "name": "Equilibrio Colonial",
+    "description": "Choque de dos tiempos, Renders exteriores e interiores casa habitación, modelos hechos en Blender 4.2 renderizados con el motor Cycles. Casa de dos plantas con un diseño que combina la arquitectura colonial mexicana con arquitectura moderna dando un toque acogedor y a la vez moderno y elegante de manera equilibrada combinando lo mejor de ambos estilos.",
+    "status": "aprobado",
+    "cover": {
+      "id": "67",
+      "proyecto_id": "28",
+      "tipo": "imagen",
+      "url": "proyectos/posters/equilibrio-colonial.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 19:59:19",
+      "updated_at": "2026-05-12 20:13:20"
+    },
+    "videos": [
+      {
+        "id": "74",
+        "proyecto_id": "28",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/9PL6MwnlkpE",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 20:13:20",
+        "updated_at": "2026-05-13 19:57:53"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "75",
+        "proyecto_id": "28",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1Sc-h9iVEtwKIhE6jCLgVjmn0Q-wqZs7l?usp=drive_link",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-13 19:57:53",
+        "created_at": "2026-05-12 20:13:20",
+        "updated_at": "2026-05-13 19:57:53"
+      },
+      {
+        "id": "164",
+        "proyecto_id": "28",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1Sc-h9iVEtwKIhE6jCLgVjmn0Q-wqZs7l?usp=drive_link",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-13 19:59:18",
+        "created_at": "2026-05-13 19:57:53",
+        "updated_at": "2026-05-13 19:59:18"
+      },
+      {
+        "id": "165",
+        "proyecto_id": "28",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1Sc-h9iVEtwKIhE6jCLgVjmn0Q-wqZs7l?usp=drive_link",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:27:48",
+        "created_at": "2026-05-13 19:59:18",
+        "updated_at": "2026-05-20 21:27:48"
+      },
+      {
+        "id": "254",
+        "proyecto_id": "28",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1Sc-h9iVEtwKIhE6jCLgVjmn0Q-wqZs7l?usp=drive_link",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:27:50",
+        "created_at": "2026-05-20 21:27:48",
+        "updated_at": "2026-05-20 21:27:50"
+      },
+      {
+        "id": "255",
+        "proyecto_id": "28",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1Sc-h9iVEtwKIhE6jCLgVjmn0Q-wqZs7l?usp=drive_link",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:27:50",
+        "updated_at": "2026-05-20 21:27:50"
+      }
+    ],
+    "team": [
+      {
+        "name": "JUAN MAXIMILIANO CONTRERAS AGUILAR",
+        "is_leader": true
+      }
+    ],
+    "subject": "MODELADO ARQUITECTONICO",
+    "category": "Arte"
+  },
+  {
+    "id": "29",
+    "name": "Don Paco Taco",
+    "description": "Don Taco Paco  es un simulador de puesto de tacos en primera persona para Android. El jugador\ntoma órdenes, prepara tacos con gestos táctiles, los entrega a sus clientes, recibe pagos y, al\nfinal de cada semana de juego, debe pagar la renta para poder seguir con su negocio. La\nmeta del jugador es resistir tantos días como sea posible.",
+    "status": "aprobado",
+    "cover": {
+      "id": "69",
+      "proyecto_id": "29",
+      "tipo": "imagen",
+      "url": "proyectos/posters/don-paco-taco.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 20:05:43",
+      "updated_at": "2026-05-12 20:20:15"
+    },
+    "videos": [
+      {
+        "id": "77",
+        "proyecto_id": "29",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/UyToRmsYitQ",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 20:20:15",
+        "updated_at": "2026-05-12 20:20:15"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "78",
+        "proyecto_id": "29",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Sistemas_Mov_2",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:30:45",
+        "created_at": "2026-05-12 20:20:15",
+        "updated_at": "2026-05-20 21:30:45"
+      },
+      {
+        "id": "262",
+        "proyecto_id": "29",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Sistemas_Mov_2",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:30:47",
+        "created_at": "2026-05-20 21:30:45",
+        "updated_at": "2026-05-20 21:30:47"
+      },
+      {
+        "id": "263",
+        "proyecto_id": "29",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Sistemas_Mov_2",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:30:47",
+        "updated_at": "2026-05-20 21:30:47"
+      }
+    ],
+    "team": [
+      {
+        "name": "LEO JORDAN AMBRIZ GUTIERREZ",
+        "is_leader": false
+      },
+      {
+        "name": "OLIVER CERVANTES GOMEZ",
+        "is_leader": false
+      },
+      {
+        "name": "JUAN PABLO FARIAS GARCIA",
+        "is_leader": true
+      }
+    ],
+    "subject": "PROGRAMACION DE SISTEMAS MOVILES II",
+    "category": "Programación"
+  },
+  {
+    "id": "30",
+    "name": "Socc3r",
+    "description": "Socc3r es una página web interactiva sobre la Copa Mundial de la FIFA, creamos cartas individuales para las 48 selecciones participantes de la edición más reciente este 2026. Juega nuestra trivia de 10 preguntas al azar, nuestro minijuego como futbolista, edita tu perfil a tu gusto, y juega con nuestra galería de videos. Por último, pero no menos importante, interactúa con las cartas reales para obtener modelos de cada playera mundialista.",
+    "status": "aprobado",
+    "cover": {
+      "id": "73",
+      "proyecto_id": "30",
+      "tipo": "imagen",
+      "url": "proyectos/posters/socc3r.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 20:13:01",
+      "updated_at": "2026-05-12 20:25:07"
+    },
+    "videos": [
+      {
+        "id": "81",
+        "proyecto_id": "30",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/-FC-6woCgbw",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 20:25:07",
+        "updated_at": "2026-05-12 20:25:07"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "82",
+        "proyecto_id": "30",
+        "tipo": "github",
+        "url": "https://socc3r.net",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:34:26",
+        "created_at": "2026-05-12 20:25:07",
+        "updated_at": "2026-05-20 21:34:26"
+      },
+      {
+        "id": "276",
+        "proyecto_id": "30",
+        "tipo": "github",
+        "url": "https://socc3r.net",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:34:28",
+        "created_at": "2026-05-20 21:34:26",
+        "updated_at": "2026-05-20 21:34:28"
+      },
+      {
+        "id": "277",
+        "proyecto_id": "30",
+        "tipo": "github",
+        "url": "https://socc3r.net",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:35:50",
+        "created_at": "2026-05-20 21:34:28",
+        "updated_at": "2026-05-20 21:35:50"
+      },
+      {
+        "id": "281",
+        "proyecto_id": "30",
+        "tipo": "github",
+        "url": "https://socc3r.net",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:35:50",
+        "updated_at": "2026-05-20 21:35:50"
+      }
+    ],
+    "team": [
+      {
+        "name": "REYNA ISABELA MARTÍNEZ RUIZ",
+        "is_leader": false
+      },
+      {
+        "name": "GLENDA CARLA ORDOÑEZ BRAVO",
+        "is_leader": true
+      }
+    ],
+    "subject": "PROCESAMIENTO DE IMAGENES",
+    "category": "Programación"
+  },
+  {
+    "id": "31",
+    "name": "Purrrge Crusade",
+    "description": "Es un juego multijugador, ambientado en ruinas ocultas en una jungla, con arte inspirado en los cómics. Elige entre 4 personajes y formar equipos para competir. Cada personaje está equipado con un cañón y una ballesta. Durante la partida, los jugadores deberán destruir bloques inestables, activar mecanismos y abrir compuertas para avanzar antes que sus oponentes. El objetivo principal será encontrar y robar el FourFish en lo profundo de las ruinas. Una vez capturada, corre a la meta.",
+    "status": "aprobado",
+    "cover": {
+      "id": "76",
+      "proyecto_id": "31",
+      "tipo": "imagen",
+      "url": "proyectos/posters/purrrge-crusade.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 20:20:15",
+      "updated_at": "2026-05-12 20:35:23"
+    },
+    "videos": [
+      {
+        "id": "89",
+        "proyecto_id": "31",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/gPkhTBIsAMI",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 20:35:23",
+        "updated_at": "2026-05-12 20:35:23"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "90",
+        "proyecto_id": "31",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1SLzU05_-wD43_jDQ2oHqHOEQlltxAqA3?usp=drive_link",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:39:36",
+        "created_at": "2026-05-12 20:35:23",
+        "updated_at": "2026-05-20 21:39:36"
+      },
+      {
+        "id": "294",
+        "proyecto_id": "31",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1SLzU05_-wD43_jDQ2oHqHOEQlltxAqA3?usp=drive_link",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:39:39",
+        "created_at": "2026-05-20 21:39:36",
+        "updated_at": "2026-05-20 21:39:39"
+      },
+      {
+        "id": "295",
+        "proyecto_id": "31",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1SLzU05_-wD43_jDQ2oHqHOEQlltxAqA3?usp=drive_link",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:39:39",
+        "updated_at": "2026-05-20 21:39:39"
+      }
+    ],
+    "team": [
+      {
+        "name": "ANDRES RAFAEL GONZALEZ SIERRA",
+        "is_leader": true
+      },
+      {
+        "name": "ARELI SARAI HERNANDEZ FRANCO",
+        "is_leader": false
+      },
+      {
+        "name": "JOCK REY REYES AGUIRRE",
+        "is_leader": false
+      },
+      {
+        "name": "ELIUD ASAEL SANCHEZ AVILA",
+        "is_leader": false
+      },
+      {
+        "name": "JOSHUA SALVADOR TORRES GONZALEZ",
+        "is_leader": false
+      },
+      {
+        "name": "JESUS EMMANUEL VITAL GARCIA",
+        "is_leader": false
+      }
+    ],
+    "subject": "DISEÑO DE VIDEOJUEGOS EN LINEA",
+    "category": "Videojuegos"
+  },
+  {
+    "id": "32",
+    "name": "Strike Point",
+    "description": "STRIKEPOINT es un videojuego FPS First Person Shooter desarrollado en Unity que integra un dispositivo háptico físico utilizado como arma interactiva, permitiendo una experiencia inmersiva mediante la conexión en tiempo real entre hardware y software. El juego cuenta con modos Singleplayer y Multiplayer, ofreciendo tanto partidas individuales como enfrentamientos entre múltiples jugadores.",
+    "status": "aprobado",
+    "cover": {
+      "id": "79",
+      "proyecto_id": "32",
+      "tipo": "imagen",
+      "url": "proyectos/posters/strike-point.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 20:22:23",
+      "updated_at": "2026-05-12 20:38:06"
+    },
+    "videos": [
+      {
+        "id": "91",
+        "proyecto_id": "32",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/WGV7s-X7xmk",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 20:38:06",
+        "updated_at": "2026-05-12 20:38:06"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "92",
+        "proyecto_id": "32",
+        "tipo": "drive",
+        "url": "https://drive.google.com/file/d/1bOxunUPMqt2Oj_KtoLEwU0ARobaH9vj_/view?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:45:47",
+        "created_at": "2026-05-12 20:38:06",
+        "updated_at": "2026-05-20 21:45:47"
+      },
+      {
+        "id": "93",
+        "proyecto_id": "32",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Hapticos_sexto",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:45:47",
+        "created_at": "2026-05-12 20:38:06",
+        "updated_at": "2026-05-20 21:45:47"
+      },
+      {
+        "id": "308",
+        "proyecto_id": "32",
+        "tipo": "drive",
+        "url": "https://drive.google.com/file/d/1bOxunUPMqt2Oj_KtoLEwU0ARobaH9vj_/view?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:45:50",
+        "created_at": "2026-05-20 21:45:47",
+        "updated_at": "2026-05-20 21:45:50"
+      },
+      {
+        "id": "309",
+        "proyecto_id": "32",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Hapticos_sexto",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:45:50",
+        "created_at": "2026-05-20 21:45:47",
+        "updated_at": "2026-05-20 21:45:50"
+      },
+      {
+        "id": "312",
+        "proyecto_id": "32",
+        "tipo": "drive",
+        "url": "https://drive.google.com/file/d/1bOxunUPMqt2Oj_KtoLEwU0ARobaH9vj_/view?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:47:04",
+        "created_at": "2026-05-20 21:45:50",
+        "updated_at": "2026-05-20 21:47:04"
+      },
+      {
+        "id": "313",
+        "proyecto_id": "32",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Hapticos_sexto",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:47:04",
+        "created_at": "2026-05-20 21:45:50",
+        "updated_at": "2026-05-20 21:47:04"
+      },
+      {
+        "id": "314",
+        "proyecto_id": "32",
+        "tipo": "drive",
+        "url": "https://drive.google.com/file/d/1bOxunUPMqt2Oj_KtoLEwU0ARobaH9vj_/view?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:47:07",
+        "created_at": "2026-05-20 21:47:04",
+        "updated_at": "2026-05-20 21:47:07"
+      },
+      {
+        "id": "315",
+        "proyecto_id": "32",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Hapticos_sexto",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:47:07",
+        "created_at": "2026-05-20 21:47:04",
+        "updated_at": "2026-05-20 21:47:07"
+      },
+      {
+        "id": "316",
+        "proyecto_id": "32",
+        "tipo": "drive",
+        "url": "https://drive.google.com/file/d/1bOxunUPMqt2Oj_KtoLEwU0ARobaH9vj_/view?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:48:23",
+        "created_at": "2026-05-20 21:47:07",
+        "updated_at": "2026-05-20 21:48:23"
+      },
+      {
+        "id": "317",
+        "proyecto_id": "32",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Hapticos_sexto",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:48:23",
+        "created_at": "2026-05-20 21:47:07",
+        "updated_at": "2026-05-20 21:48:23"
+      },
+      {
+        "id": "318",
+        "proyecto_id": "32",
+        "tipo": "drive",
+        "url": "https://drive.google.com/file/d/1bOxunUPMqt2Oj_KtoLEwU0ARobaH9vj_/view?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:48:23",
+        "updated_at": "2026-05-20 21:48:23"
+      },
+      {
+        "id": "319",
+        "proyecto_id": "32",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Hapticos_sexto",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:48:23",
+        "updated_at": "2026-05-20 21:48:23"
+      }
+    ],
+    "team": [
+      {
+        "name": "LEO JORDAN AMBRIZ GUTIERREZ",
+        "is_leader": true
+      },
+      {
+        "name": "OLIVER CERVANTES GOMEZ",
+        "is_leader": false
+      },
+      {
+        "name": "PAULINA ASTRID GARCIA CANO",
+        "is_leader": false
+      },
+      {
+        "name": "DANNA PAULINA QUIHUI HERNANDEZ",
+        "is_leader": false
+      }
+    ],
+    "subject": "DISEÑO DE HAPTICOS",
+    "category": "Videojuegos"
+  },
+  {
+    "id": "33",
+    "name": "AstroPort",
+    "description": "AstroPort es un juego de simulación y acción espacial desarrollado en Unreal Engine 5, y además utilizando Blender para la creación de modelos y recursos 3D originales. Ambientado en una estación espacial ubicada en la Luna, el jugador toma el papel de un trabajador de la Astro Space Station, encargado de mantener la logística\n\nEl gameplay combina mecánicas de gestión de pedidos, entrega de suministros, exploración de la estación y combate contra aliens.",
+    "status": "aprobado",
+    "cover": {
+      "id": "80",
+      "proyecto_id": "33",
+      "tipo": "imagen",
+      "url": "proyectos/posters/astroport.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 20:24:24",
+      "updated_at": "2026-05-12 20:41:26"
+    },
+    "videos": [
+      {
+        "id": "94",
+        "proyecto_id": "33",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/hFY92l000Js",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 20:41:26",
+        "updated_at": "2026-05-12 20:41:26"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "95",
+        "proyecto_id": "33",
+        "tipo": "github",
+        "url": "https://astroport.net",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:52:44",
+        "created_at": "2026-05-12 20:41:26",
+        "updated_at": "2026-05-20 21:52:44"
+      },
+      {
+        "id": "320",
+        "proyecto_id": "33",
+        "tipo": "github",
+        "url": "https://astroport.net",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:52:46",
+        "created_at": "2026-05-20 21:52:44",
+        "updated_at": "2026-05-20 21:52:46"
+      },
+      {
+        "id": "321",
+        "proyecto_id": "33",
+        "tipo": "github",
+        "url": "https://astroport.net",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:54:16",
+        "created_at": "2026-05-20 21:52:46",
+        "updated_at": "2026-05-20 21:54:16"
+      },
+      {
+        "id": "327",
+        "proyecto_id": "33",
+        "tipo": "github",
+        "url": "https://astroport.net",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:54:18",
+        "created_at": "2026-05-20 21:54:16",
+        "updated_at": "2026-05-20 21:54:18"
+      },
+      {
+        "id": "328",
+        "proyecto_id": "33",
+        "tipo": "github",
+        "url": "https://astroport.net",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:54:18",
+        "updated_at": "2026-05-20 21:54:18"
+      }
+    ],
+    "team": [
+      {
+        "name": "ERIKA GUADALUPE BARRAZA TAMEZ",
+        "is_leader": false
+      },
+      {
+        "name": "LUZMA SOFIA GARCIA HERNANDEZ",
+        "is_leader": true
+      },
+      {
+        "name": "YARELI URIBE LOPEZ",
+        "is_leader": false
+      }
+    ],
+    "subject": "ESCENARIOS DE VIDEOJUEGOS",
+    "category": "Videojuegos"
+  },
+  {
+    "id": "34",
+    "name": "Heavens Eve",
+    "description": "Heavens Eve sigue la historia de un padre de familia que, tras un accidente en un bosque durante la noche de Navidad, debe recorrer distintos escenarios mientras enfrenta recuerdos, arrepentimientos y entidades relacionadas con su pasado y su familia. Las mecánicas del juego son la recolección de objetos, la resolución de puzzles, desafíos con tiempo limitado y la necesidad de evadir enemigos conocidos como almas errantes. Además, de un inventario y escenas narrativas para la experiencia.",
+    "status": "aprobado",
+    "cover": {
+      "id": "83",
+      "proyecto_id": "34",
+      "tipo": "imagen",
+      "url": "proyectos/posters/heavens-eve.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 20:26:47",
+      "updated_at": "2026-05-12 20:49:00"
+    },
+    "videos": [
+      {
+        "id": "98",
+        "proyecto_id": "34",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/7sTDs8dTjlU",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 20:49:00",
+        "updated_at": "2026-05-12 20:49:00"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "99",
+        "proyecto_id": "34",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1YzPAGuA2In_fqWrPLK3loaDjlwm3Pr-T",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:52:48",
+        "created_at": "2026-05-12 20:49:00",
+        "updated_at": "2026-05-20 21:52:48"
+      },
+      {
+        "id": "322",
+        "proyecto_id": "34",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1YzPAGuA2In_fqWrPLK3loaDjlwm3Pr-T",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:52:59",
+        "created_at": "2026-05-20 21:52:48",
+        "updated_at": "2026-05-20 21:52:59"
+      },
+      {
+        "id": "323",
+        "proyecto_id": "34",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1YzPAGuA2In_fqWrPLK3loaDjlwm3Pr-T",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:53:12",
+        "created_at": "2026-05-20 21:52:59",
+        "updated_at": "2026-05-20 21:53:12"
+      },
+      {
+        "id": "324",
+        "proyecto_id": "34",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1YzPAGuA2In_fqWrPLK3loaDjlwm3Pr-T",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:53:44",
+        "created_at": "2026-05-20 21:53:12",
+        "updated_at": "2026-05-20 21:53:44"
+      },
+      {
+        "id": "325",
+        "proyecto_id": "34",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1YzPAGuA2In_fqWrPLK3loaDjlwm3Pr-T",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:53:54",
+        "created_at": "2026-05-20 21:53:44",
+        "updated_at": "2026-05-20 21:53:54"
+      },
+      {
+        "id": "326",
+        "proyecto_id": "34",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1YzPAGuA2In_fqWrPLK3loaDjlwm3Pr-T",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:54:46",
+        "created_at": "2026-05-20 21:53:54",
+        "updated_at": "2026-05-20 21:54:46"
+      },
+      {
+        "id": "329",
+        "proyecto_id": "34",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1YzPAGuA2In_fqWrPLK3loaDjlwm3Pr-T",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:54:53",
+        "created_at": "2026-05-20 21:54:46",
+        "updated_at": "2026-05-20 21:54:53"
+      },
+      {
+        "id": "330",
+        "proyecto_id": "34",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1YzPAGuA2In_fqWrPLK3loaDjlwm3Pr-T",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:54:57",
+        "created_at": "2026-05-20 21:54:53",
+        "updated_at": "2026-05-20 21:54:57"
+      },
+      {
+        "id": "331",
+        "proyecto_id": "34",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1YzPAGuA2In_fqWrPLK3loaDjlwm3Pr-T",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:55:07",
+        "created_at": "2026-05-20 21:54:57",
+        "updated_at": "2026-05-20 21:55:07"
+      },
+      {
+        "id": "332",
+        "proyecto_id": "34",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1YzPAGuA2In_fqWrPLK3loaDjlwm3Pr-T",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:55:20",
+        "created_at": "2026-05-20 21:55:07",
+        "updated_at": "2026-05-20 21:55:20"
+      },
+      {
+        "id": "333",
+        "proyecto_id": "34",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1YzPAGuA2In_fqWrPLK3loaDjlwm3Pr-T",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:55:22",
+        "created_at": "2026-05-20 21:55:20",
+        "updated_at": "2026-05-20 21:55:22"
+      },
+      {
+        "id": "334",
+        "proyecto_id": "34",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1YzPAGuA2In_fqWrPLK3loaDjlwm3Pr-T",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:55:22",
+        "updated_at": "2026-05-20 21:55:22"
+      }
+    ],
+    "team": [
+      {
+        "name": "ERIKA GUADALUPE BARRAZA TAMEZ",
+        "is_leader": true
+      },
+      {
+        "name": "LUZMA SOFIA GARCIA HERNANDEZ",
+        "is_leader": false
+      },
+      {
+        "name": "DANIELA VELEZ CECCOPIERI",
+        "is_leader": false
+      }
+    ],
+    "subject": "PROGRAMACION DE ENTORNOS BIDIMENSIONALES",
+    "category": "Videojuegos"
+  },
+  {
+    "id": "35",
+    "name": "Lo que deje atras...",
+    "description": "Una mujer despierta sola en un bosque cubierto por niebla. A medida que avanza, sombras, raíces y susurros comienzan a revelar fragmentos de un recuerdo que había intentado enterrar tiempo atrás dejó a alguien atrás en ese mismo bosque y decidió seguir caminando sin mirar atrás. La culpa toma forma y la persigue en cada paso, hasta llevarla frente a la verdad que había evitado. Cuando finalmente comprende lo ocurrido, ya no existe salida porque el bosque nunca quiso dejarla escapar.",
+    "status": "rechazado",
+    "cover": {
+      "id": "84",
+      "proyecto_id": "35",
+      "tipo": "imagen",
+      "url": "proyectos/posters/lo-que-deje-atras.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 20:27:59",
+      "updated_at": "2026-05-12 21:11:23"
+    },
+    "videos": [
+      {
+        "id": "108",
+        "proyecto_id": "35",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/SYyvx6GE2UI",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 21:11:23",
+        "updated_at": "2026-05-12 21:11:23"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "INGRID ALEIDA ROSAS REYNA",
+        "is_leader": true
+      }
+    ],
+    "subject": "FOTOGRAFIA DIGITAL",
+    "category": "Arte"
+  },
+  {
+    "id": "36",
+    "name": "Incidente del Big Shell",
+    "description": "Solid Snake a modo de figura de acción sobre una de las plataformas del Big Shell, escenario de Metal Gear Solid 2.\nEs un rediseño del modelo de Solid Snake en high poly. Como fan de la saga, tomé como base los diferentes diseños que ha tenido en los juegos a lo largo del tiempo para combinarlos y crear el modelo que mejor represente al personaje.",
+    "status": "aprobado",
+    "cover": {
+      "id": "85",
+      "proyecto_id": "36",
+      "tipo": "imagen",
+      "url": "proyectos/posters/incidente-del-big-shell.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 20:29:11",
+      "updated_at": "2026-05-12 20:56:04"
+    },
+    "videos": [
+      {
+        "id": "101",
+        "proyecto_id": "36",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/Y84YyR4Vr_g",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 20:56:04",
+        "updated_at": "2026-05-12 20:56:04"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "MARIO ALFREDO ROJAS RICO",
+        "is_leader": true
+      }
+    ],
+    "subject": "MODELADO DE ALTO POLIGONAJE",
+    "category": "Arte"
+  },
+  {
+    "id": "37",
+    "name": "ANTOLOGÍA LA CASA DE LOS TUBOS PT.1",
+    "description": "ANTOLOGÍA LA CASA DE LOS TUBOS, es uno de los futuros videos animados referentes a las leyendas más populares de la cultura regiomontana, pero en vez de contar las leyendas que ya todos conocen, tendremos a distintos personajes conviviendo de una forma aterradora con ellos con toques de comedia.",
+    "status": "aprobado",
+    "cover": {
+      "id": "86",
+      "proyecto_id": "37",
+      "tipo": "imagen",
+      "url": "proyectos/posters/antologia-la-casa-de-los-tubos-pt1.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 20:30:07",
+      "updated_at": "2026-05-12 20:59:52"
+    },
+    "videos": [
+      {
+        "id": "103",
+        "proyecto_id": "37",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/b1og0TZfaaE",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 20:59:52",
+        "updated_at": "2026-05-12 20:59:52"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "OSCAR MARIO GONZALEZ ESCALERA",
+        "is_leader": true
+      }
+    ],
+    "subject": "ANIMACION TRADICIONAL DE HUMANOS Y ANIMALES",
+    "category": "Arte"
+  },
+  {
+    "id": "38",
+    "name": "Entre Pinceles y Vino",
+    "description": "Esta obra representa un espacio artístico personal, una mañana de domingo tranquila en la casa rodeado de tranquilidad. El proyecto busca transmitir esa sensación de calidéz e intimidad que nos surge al dedicar tiempo a lo que nos apasiona en ambiente acogedor.",
+    "status": "aprobado",
+    "cover": {
+      "id": "87",
+      "proyecto_id": "38",
+      "tipo": "imagen",
+      "url": "proyectos/posters/entre-pinceles-y-vino.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 20:31:03",
+      "updated_at": "2026-05-12 21:00:25"
+    },
+    "videos": [
+      {
+        "id": "104",
+        "proyecto_id": "38",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/q3ZThEsZ-Iw",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 21:00:25",
+        "updated_at": "2026-05-12 21:00:25"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "CÉSAR YAHIR CEPEDA OVALLE",
+        "is_leader": true
+      }
+    ],
+    "subject": "MODELO ORGANICO",
+    "category": "Arte"
+  },
+  {
+    "id": "39",
+    "name": "Vialy",
+    "description": "Vialy es una plataforma orientada al sector asegurador premium, especializada en la administración de siniestros de automóviles de alta gama. La plataforma centraliza el reporte de accidentes, el monitoreo del proceso de reparación y la comunicación con el cliente, brindando una experiencia digital intuitiva, transparente y eficiente mediante seguimiento en tiempo real y gestión automatizada de estatus.",
+    "status": "aprobado",
+    "cover": {
+      "id": "88",
+      "proyecto_id": "39",
+      "tipo": "imagen",
+      "url": "proyectos/posters/vialy.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 20:32:40",
+      "updated_at": "2026-05-12 21:04:28"
+    },
+    "videos": [
+      {
+        "id": "105",
+        "proyecto_id": "39",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/bBgvCeDGRCk",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 21:04:28",
+        "updated_at": "2026-05-12 21:04:28"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "OMAR ISAI FERRETIZ SANCHEZ",
+        "is_leader": true
+      },
+      {
+        "name": "JUAN ALBERTO VARELA AMARO",
+        "is_leader": false
+      }
+    ],
+    "subject": "BASE DE DATOS MULTIMEDIA",
+    "category": "Programación"
+  },
+  {
+    "id": "40",
+    "name": "Echo Hunters",
+    "description": "Tras fracturarse el Canto del Alma, Arkaidia quedó en silencio. En Echo Hunters exploras una doble realidad usando la Visión Espectral para descubrir memorias ocultas en el Risco del Lamento y el Bosque del Silencio. Arqueología interactiva para sanar un reino enmudecido.",
+    "status": "aprobado",
+    "cover": {
+      "id": "96",
+      "proyecto_id": "40",
+      "tipo": "imagen",
+      "url": "proyectos/posters/echo-hunters.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 20:42:59",
+      "updated_at": "2026-05-12 21:09:30"
+    },
+    "videos": [
+      {
+        "id": "106",
+        "proyecto_id": "40",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/Zw2FrDCsEFQ",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 21:09:30",
+        "updated_at": "2026-05-12 21:09:30"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "107",
+        "proyecto_id": "40",
+        "tipo": "drive",
+        "url": "https://drive.google.com/file/d/1MxYlmzszRnw1ET7VXazjZvuY5rL0gVmG/view?usp=drivesdk",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:58:06",
+        "created_at": "2026-05-12 21:09:30",
+        "updated_at": "2026-05-20 21:58:06"
+      },
+      {
+        "id": "335",
+        "proyecto_id": "40",
+        "tipo": "drive",
+        "url": "https://drive.google.com/file/d/1MxYlmzszRnw1ET7VXazjZvuY5rL0gVmG/view?usp=drivesdk",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:58:14",
+        "created_at": "2026-05-20 21:58:06",
+        "updated_at": "2026-05-20 21:58:14"
+      },
+      {
+        "id": "336",
+        "proyecto_id": "40",
+        "tipo": "drive",
+        "url": "https://drive.google.com/file/d/1MxYlmzszRnw1ET7VXazjZvuY5rL0gVmG/view?usp=drivesdk",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:58:22",
+        "created_at": "2026-05-20 21:58:14",
+        "updated_at": "2026-05-20 21:58:22"
+      },
+      {
+        "id": "337",
+        "proyecto_id": "40",
+        "tipo": "drive",
+        "url": "https://drive.google.com/file/d/1MxYlmzszRnw1ET7VXazjZvuY5rL0gVmG/view?usp=drivesdk",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:58:27",
+        "created_at": "2026-05-20 21:58:22",
+        "updated_at": "2026-05-20 21:58:27"
+      },
+      {
+        "id": "338",
+        "proyecto_id": "40",
+        "tipo": "drive",
+        "url": "https://drive.google.com/file/d/1MxYlmzszRnw1ET7VXazjZvuY5rL0gVmG/view?usp=drivesdk",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:59:16",
+        "created_at": "2026-05-20 21:58:27",
+        "updated_at": "2026-05-20 21:59:16"
+      },
+      {
+        "id": "339",
+        "proyecto_id": "40",
+        "tipo": "drive",
+        "url": "https://drive.google.com/file/d/1MxYlmzszRnw1ET7VXazjZvuY5rL0gVmG/view?usp=drivesdk",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:59:25",
+        "created_at": "2026-05-20 21:59:16",
+        "updated_at": "2026-05-20 21:59:25"
+      },
+      {
+        "id": "340",
+        "proyecto_id": "40",
+        "tipo": "drive",
+        "url": "https://drive.google.com/file/d/1MxYlmzszRnw1ET7VXazjZvuY5rL0gVmG/view?usp=drivesdk",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": "2026-05-20 21:59:34",
+        "created_at": "2026-05-20 21:59:25",
+        "updated_at": "2026-05-20 21:59:34"
+      },
+      {
+        "id": "341",
+        "proyecto_id": "40",
+        "tipo": "drive",
+        "url": "https://drive.google.com/file/d/1MxYlmzszRnw1ET7VXazjZvuY5rL0gVmG/view?usp=drivesdk",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-20 21:59:34",
+        "updated_at": "2026-05-20 21:59:34"
+      }
+    ],
+    "team": [
+      {
+        "name": "NATALIE YADIRA ACOSTA ARGUETA",
+        "is_leader": true
+      },
+      {
+        "name": "DAVID AGUILAR ACOSTA",
+        "is_leader": false
+      },
+      {
+        "name": "REBECA EVANGELISTA JASSO",
+        "is_leader": false
+      }
+    ],
+    "subject": "ESCENARIOS DE VIDEOJUEGOS",
+    "category": "Videojuegos"
+  },
+  {
+    "id": "41",
+    "name": "Puro Nuevo León",
+    "description": "Hablar de cultura nuevoleonesa es mencionar sus danzas tradicionales, arquitectura y costumbres. Entre familia, un rico elote del centro y un clásico regio con vista al Cerro de la Silla, se grita con orgullo Puro Nuevo León",
+    "status": "aprobado",
+    "cover": {
+      "id": "97",
+      "proyecto_id": "41",
+      "tipo": "imagen",
+      "url": "proyectos/posters/puro-nuevo-leon.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 20:45:05",
+      "updated_at": "2026-05-12 20:54:28"
+    },
+    "videos": [
+      {
+        "id": "100",
+        "proyecto_id": "41",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/GbHi0iFSgIE",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 20:54:28",
+        "updated_at": "2026-05-12 20:54:28"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "JAZMIN PAOLA RODRIGUEZ LARA",
+        "is_leader": true
+      }
+    ],
+    "subject": "ANIMACION TRADICIONAL DE ESCENARIOS",
+    "category": "Arte"
+  },
+  {
+    "id": "42",
+    "name": "FIFAverse",
+    "description": "FIFAverse permite a los usuarios interactuar con la afición y publicar imágenes y videos de sus momentos favoritos de la historia de la FIFA. Con apartados cómo comunidades, donde el usuario puede unirse a grupos con temáticas específicas y relacionarse con otros miembros. Con los usuarios cómo nuestra prioridad, se implementaron opciones de accesibilidad, tales como, navegación por teclado, ajuste en tamaño de letra, modo claro y oscuro, todo para facilitar la navegación.",
+    "status": "aprobado",
+    "cover": {
+      "id": "102",
+      "proyecto_id": "42",
+      "tipo": "imagen",
+      "url": "proyectos/posters/fifaverse.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-12 20:56:30",
+      "updated_at": "2026-05-12 21:11:49"
+    },
+    "videos": [
+      {
+        "id": "109",
+        "proyecto_id": "42",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/O83eI97cHdY",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-12 21:11:49",
+        "updated_at": "2026-05-12 21:11:49"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "LUZMA SOFIA GARCIA HERNANDEZ",
+        "is_leader": true
+      }
+    ],
+    "subject": "INTERFAZ Y EXPERIENCIA DE USUARIO",
+    "category": "Programación"
+  },
+  {
+    "id": "43",
+    "name": "Geck Oh",
+    "description": "BlahBlahBlahBlahBlahBlahBlahBlahBlahBlahBlahBlahvvBlahBlahBlahBlahBlahBlahBlah",
+    "status": "rechazado",
+    "cover": {
+      "id": "110",
+      "proyecto_id": "43",
+      "tipo": "imagen",
+      "url": "proyectos/posters/geck-oh.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-13 17:51:33",
+      "updated_at": "2026-05-13 17:54:35"
+    },
+    "videos": [
+      {
+        "id": "111",
+        "proyecto_id": "43",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/JA276K9t2r4",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 17:54:35",
+        "updated_at": "2026-05-13 17:54:35"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "DANNA PAULINA QUIHUI HERNANDEZ",
+        "is_leader": false
+      },
+      {
+        "name": "DANTE OMAR FERNANDEZ MANCILLA",
+        "is_leader": false
+      },
+      {
+        "name": "LEONARDO GABRIEL GARCIA NUÑEZ",
+        "is_leader": false
+      },
+      {
+        "name": "JORGE PABLO FLORES BLANCO",
+        "is_leader": true
+      },
+      {
+        "name": "CRISTIAN GUADALUPE LOPEZ SAUCEDA",
+        "is_leader": false
+      },
+      {
+        "name": "JESUS SEBASTIAN MONTOYA VELAZCO",
+        "is_leader": false
+      },
+      {
+        "name": "JORDI ALEXIS SALDAÑA ORTIZ",
+        "is_leader": false
+      }
+    ],
+    "subject": "GUIONISMO",
+    "category": "Arte"
+  },
+  {
+    "id": "44",
+    "name": "Sueños lúcidos",
+    "description": "Una chica experimenta un sueño lúcido en el que recorre distintos escenarios extraños y simbólicos. A medida que avanza, vive transformaciones y encuentros surrealistas que reflejan aspectos de sí misma.",
+    "status": "rechazado",
+    "cover": {
+      "id": "112",
+      "proyecto_id": "44",
+      "tipo": "imagen",
+      "url": "proyectos/posters/suenos-lucidos.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-13 18:01:32",
+      "updated_at": "2026-05-13 18:05:05"
+    },
+    "videos": [
+      {
+        "id": "113",
+        "proyecto_id": "44",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/Ar_h-uwUvDs",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 18:05:05",
+        "updated_at": "2026-05-13 18:05:05"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "114",
+        "proyecto_id": "44",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/10rtb6j61ym5I8_MBtXsjS3CbFmBhJPhG",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 18:05:05",
+        "updated_at": "2026-05-13 18:05:05"
+      }
+    ],
+    "team": [
+      {
+        "name": "MARIA DE LA LUZ GARZA VEGA",
+        "is_leader": true
+      }
+    ],
+    "subject": "MODELO ORGANICO",
+    "category": "Arte"
+  },
+  {
+    "id": "45",
+    "name": "ISSIDRA to the East",
+    "description": "Nuestros detectives ya son famosos entre los criminales de las sombras… ¡y también con la policía! Es hora de fundar ISSIDRA sobre los terrenos abandonados al este de Cramora. Ahora solo falta que Dom logre el hechizo de ocultamiento… antes de que Noor muera de risa.",
+    "status": "aprobado",
+    "cover": {
+      "id": "115",
+      "proyecto_id": "45",
+      "tipo": "imagen",
+      "url": "proyectos/posters/issidra-to-the-east.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-13 18:10:29",
+      "updated_at": "2026-05-20 22:40:33"
+    },
+    "videos": [
+      {
+        "id": "120",
+        "proyecto_id": "45",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/gShQ1xa7ABg",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 18:15:29",
+        "updated_at": "2026-05-13 18:15:29"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "KIMBERLY ABIGAIL HERRERA NAVARRETE",
+        "is_leader": true
+      }
+    ],
+    "subject": "ANIMACION TRADICIONAL DE ESCENARIOS",
+    "category": "Arte"
+  },
+  {
+    "id": "46",
+    "name": "Rigging y Skinning: Fundamentos para cobrar vida",
+    "description": "En este proyecto se creó un personaje original que posteriormente se usó para añadirle un esqueleto diseñado para animación. \nEl rig incluye conexiones IK en las extremidades, controladores para los ojos, diferentes presets de expresión en la forma de shape keys y dynamic movement para el cabello.",
+    "status": "aprobado",
+    "cover": {
+      "id": "116",
+      "proyecto_id": "46",
+      "tipo": "imagen",
+      "url": "proyectos/posters/rigging-y-skinning-fundamentos-para-cobrar-vida.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-13 18:11:11",
+      "updated_at": "2026-05-13 18:13:17"
+    },
+    "videos": [
+      {
+        "id": "118",
+        "proyecto_id": "46",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/skiyXMsJuDw",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 18:13:17",
+        "updated_at": "2026-05-21 08:23:10"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "DANNA PAULINA QUIHUI HERNANDEZ",
+        "is_leader": true
+      }
+    ],
+    "subject": "ESQUELETOS DE PERSONAJES",
+    "category": "Arte"
+  },
+  {
+    "id": "47",
+    "name": "La Llamada",
+    "description": "“La Llamada” es un cortometraje de drama familiar que explora la reconciliación tardía, la pérdida y la importancia de las palabras que nunca se dicen a tiempo.",
+    "status": "aprobado",
+    "cover": {
+      "id": "117",
+      "proyecto_id": "47",
+      "tipo": "imagen",
+      "url": "proyectos/posters/la-llamada.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-13 18:11:22",
+      "updated_at": "2026-05-13 18:13:21"
+    },
+    "videos": [
+      {
+        "id": "119",
+        "proyecto_id": "47",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/M-d6kt_C3pk",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 18:13:21",
+        "updated_at": "2026-05-13 18:13:21"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "JUAN PABLO FARIAS GARCIA",
+        "is_leader": true
+      }
+    ],
+    "subject": "ILUMINACION Y AUDIO",
+    "category": "Arte"
+  },
+  {
+    "id": "48",
+    "name": "Harto del Mundial",
+    "description": "\"Harto del Mundial\" nos cuenta la historia de Oscar, un joven molesto por la celebración de este evento en su ciudad. Todo el mundo habla de ello y eso lo tiene disgustado, más aún porque él no es alguien que disfrute de este deporte. Con la ayuda de sus amigos, Oscar se dará cuenta de que no es necesario que te guste el deporte para celebrar la ocasión: hay mucho más detrás de ello y él lo descubrirá en esta historia.",
+    "status": "aprobado",
+    "cover": {
+      "id": "121",
+      "proyecto_id": "48",
+      "tipo": "imagen",
+      "url": "proyectos/posters/harto-del-mundial.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-13 18:19:07",
+      "updated_at": "2026-05-13 18:21:46"
+    },
+    "videos": [
+      {
+        "id": "122",
+        "proyecto_id": "48",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/L_z8jMDmM1Y",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 18:21:46",
+        "updated_at": "2026-05-13 18:21:46"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "ADRIAN EMANUEL CORTEZ GUTIERREZ",
+        "is_leader": true
+      },
+      {
+        "name": "DANAEE ESPARZA LOPEZ",
+        "is_leader": false
+      },
+      {
+        "name": "BÁRBARA DANIELA FLORES ALFARO",
+        "is_leader": false
+      },
+      {
+        "name": "MELISSA FERNANDA GARZON GONZALEZ",
+        "is_leader": false
+      },
+      {
+        "name": "ANDREA KAROLINA LOPEZ ORTIZ",
+        "is_leader": false
+      },
+      {
+        "name": "ANDREA MELISSA MARES ORTEGA",
+        "is_leader": false
+      },
+      {
+        "name": "OSCAR RONALDO ROMAN REGALADO",
+        "is_leader": false
+      }
+    ],
+    "subject": "FUNDAMENTOS Y PRODUCCION CINEMATOGRAFICA",
+    "category": "Arte"
+  },
+  {
+    "id": "49",
+    "name": "FIPAFI",
+    "description": "Aplicación WEB desarrollada para dispositivos móviles con elementos interactuables de realidad aumentada, tematizado en el mundial de FIFA 2026.",
+    "status": "aprobado",
+    "cover": {
+      "id": "123",
+      "proyecto_id": "49",
+      "tipo": "imagen",
+      "url": "proyectos/posters/fipafi.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-13 18:27:24",
+      "updated_at": "2026-05-13 18:31:47"
+    },
+    "videos": [
+      {
+        "id": "125",
+        "proyecto_id": "49",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/Ftz-gB6fOhQ",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 18:31:47",
+        "updated_at": "2026-05-13 18:31:47"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "126",
+        "proyecto_id": "49",
+        "tipo": "github",
+        "url": "https://github.com/mona0603/AR",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 18:31:47",
+        "updated_at": "2026-05-13 18:31:47"
+      }
+    ],
+    "team": [
+      {
+        "name": "DANNA PAOLA HERNANDEZ RODRIGUEZ",
+        "is_leader": true
+      }
+    ],
+    "subject": "PROCESAMIENTO DE IMAGENES",
+    "category": "Programación"
+  },
+  {
+    "id": "50",
+    "name": "Orbicats Space Battle Royale",
+    "description": "Orbicats es un divertido Shooter Battle Royale multijugador en 3D que traslada la intensidad de la supervivencia a un ecosistema estelar dinámico. Utilizando las capacidades de vanguardia de Unreal Engine 5.5, el juego presenta una experiencia donde la gravedad no es una constante, sino una mecánica de juego que los jugadores deben dominar para sobrevivir.",
+    "status": "aprobado",
+    "cover": {
+      "id": "124",
+      "proyecto_id": "50",
+      "tipo": "imagen",
+      "url": "proyectos/posters/orbicats-space-battle-royale.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-13 18:31:46",
+      "updated_at": "2026-05-13 18:34:06"
+    },
+    "videos": [
+      {
+        "id": "127",
+        "proyecto_id": "50",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/Qn1S9h0CsAg",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 18:34:06",
+        "updated_at": "2026-05-13 18:34:06"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "128",
+        "proyecto_id": "50",
+        "tipo": "drive",
+        "url": "https://drive.google.com/drive/folders/1I7w4SNG1sqwULUHjRtpVIIJ7Z2hgOJby?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 18:34:06",
+        "updated_at": "2026-05-13 18:34:06"
+      }
+    ],
+    "team": [
+      {
+        "name": "ERICK SAUL ALVAREZ SANDOVAL",
+        "is_leader": true
+      },
+      {
+        "name": "PABLO ANGEL GARCIA GARZA",
+        "is_leader": false
+      },
+      {
+        "name": "JORGE GAEL RODRIGUEZ IBARRA",
+        "is_leader": false
+      }
+    ],
+    "subject": "DISEÑO DE VIDEOJUEGOS EN LINEA",
+    "category": "Videojuegos"
+  },
+  {
+    "id": "51",
+    "name": "KICKCAM",
+    "description": "KickCam es una aplicación web que permite usuario abrir una experiencia de realidad aumentado al momento de escanear un escudo de las selecciones que participan en el mundial, además de permitirle abrir su cámara para experimentar con los diferentes filtros de que ofrece la aplicación, por otra parte KickCam permite una experiencia gamificada a través de trivias diversas que permiten completar su álbum.",
+    "status": "aprobado",
+    "cover": {
+      "id": "129",
+      "proyecto_id": "51",
+      "tipo": "imagen",
+      "url": "proyectos/posters/kickcam.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-13 18:48:08",
+      "updated_at": "2026-05-13 18:51:27"
+    },
+    "videos": [
+      {
+        "id": "131",
+        "proyecto_id": "51",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/B2OTI87j2pI",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 18:51:27",
+        "updated_at": "2026-05-13 18:51:27"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "DANTE OMAR FERNANDEZ MANCILLA",
+        "is_leader": true
+      },
+      {
+        "name": "MARIA FERNANDA GONZALEZ RASCON",
+        "is_leader": false
+      }
+    ],
+    "subject": "PROCESAMIENTO DE IMAGENES",
+    "category": "Programación"
+  },
+  {
+    "id": "52",
+    "name": "DFM SECURES",
+    "description": "Aplicación web le permite a una aseguradora gestionar las diversas pólizas y siniestros que se presenten y con los cuales tienen asegurados, a si mismo permite a los clientes adquirir sus pólizas para proteger sus automóviles, mientras que a la aseguradora le permite gestionar los siniestros que se van sucediendo.",
+    "status": "aprobado",
+    "cover": {
+      "id": "130",
+      "proyecto_id": "52",
+      "tipo": "imagen",
+      "url": "proyectos/posters/dfm-secures.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-13 18:48:57",
+      "updated_at": "2026-05-13 18:51:36"
+    },
+    "videos": [
+      {
+        "id": "132",
+        "proyecto_id": "52",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/U3AoDWbyEOY",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 18:51:36",
+        "updated_at": "2026-05-13 18:51:36"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "DANTE OMAR FERNANDEZ MANCILLA",
+        "is_leader": true
+      },
+      {
+        "name": "MARIA FERNANDA GONZALEZ RASCON",
+        "is_leader": false
+      },
+      {
+        "name": "MIGUEL ALEJANDRO ALVAREZ ESPINOSA",
+        "is_leader": false
+      }
+    ],
+    "subject": "BASE DE DATOS MULTIMEDIA",
+    "category": "Programación"
+  },
+  {
+    "id": "53",
+    "name": "Timelens",
+    "description": "Para ganar se deben completar los objetivos del juego sin morir por los dinosaurios que se\nencuentran acechando el bosque. En caso de perder las 3 vidas debido a los ataques de los\ndinosaurios pierdes el juego.",
+    "status": "aprobado",
+    "cover": {
+      "id": "133",
+      "proyecto_id": "53",
+      "tipo": "imagen",
+      "url": "proyectos/posters/timelens.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-13 19:06:10",
+      "updated_at": "2026-05-13 19:08:31"
+    },
+    "videos": [
+      {
+        "id": "134",
+        "proyecto_id": "53",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/SBXob36eF0E",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 19:08:31",
+        "updated_at": "2026-05-13 19:08:31"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "135",
+        "proyecto_id": "53",
+        "tipo": "github",
+        "url": "https://github.com/dukkzyx/lastframe.git",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 19:08:31",
+        "updated_at": "2026-05-13 19:08:31"
+      }
+    ],
+    "team": [
+      {
+        "name": "LUIS DIEGO DE LA FUENTE RODRIGUEZ",
+        "is_leader": true
+      },
+      {
+        "name": "JESUS FRANCISCO VALDES LARA",
+        "is_leader": false
+      }
+    ],
+    "subject": "PROGRAMACION DE SISTEMAS MOVILES II",
+    "category": "Programación"
+  },
+  {
+    "id": "54",
+    "name": "Soy Mundialista",
+    "description": "Soy Mundialista es una plataforma web que combina lo mejor de una infografía interactiva con la dinámica de una red social. Aquí los usuarios pueden explorar la historia completa de los Mundiales, desde sus primeros campeones hasta los momentos más icónicos, mientras participan activamente creando publicaciones, comentando y compartiendo su pasión por el fútbol.",
+    "status": "aprobado",
+    "cover": {
+      "id": "136",
+      "proyecto_id": "54",
+      "tipo": "imagen",
+      "url": "proyectos/posters/soy-mundialista.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-13 19:08:45",
+      "updated_at": "2026-05-13 19:11:45"
+    },
+    "videos": [
+      {
+        "id": "138",
+        "proyecto_id": "54",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/8-8Idtjkbv4",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 19:11:45",
+        "updated_at": "2026-05-13 19:11:45"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "139",
+        "proyecto_id": "54",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Soy_mundialista_pagina_web/tree/version_beta",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 19:11:45",
+        "updated_at": "2026-05-13 19:11:45"
+      }
+    ],
+    "team": [
+      {
+        "name": "LEO JORDAN AMBRIZ GUTIERREZ",
+        "is_leader": true
+      },
+      {
+        "name": "OLIVER CERVANTES GOMEZ",
+        "is_leader": false
+      }
+    ],
+    "subject": "INTERFAZ Y EXPERIENCIA DE USUARIO",
+    "category": "Programación"
+  },
+  {
+    "id": "55",
+    "name": "Penguin Snow Battle",
+    "description": "Penguin Snow Battle es un videojuego multijugador desarrollado en Unity donde divertidos pingüinos compiten en intensas batallas de nieve dentro de escenarios 3D llenos de acción. Con una jugabilidad dinámica, efectos visuales inmersivos y personajes estilizados, los jugadores deberán enfrentarse entre sí utilizando bolas de nieve para dominar la arena helada y convertirse en el campeón del Ártico.",
+    "status": "aprobado",
+    "cover": {
+      "id": "137",
+      "proyecto_id": "55",
+      "tipo": "imagen",
+      "url": "proyectos/posters/penguin-snow-battle.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-13 19:10:45",
+      "updated_at": "2026-05-13 19:14:07"
+    },
+    "videos": [
+      {
+        "id": "141",
+        "proyecto_id": "55",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/fOpXXvYwYeg",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 19:14:07",
+        "updated_at": "2026-05-13 19:14:07"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "142",
+        "proyecto_id": "55",
+        "tipo": "drive",
+        "url": "https://drive.google.com/file/d/1qQ1yKrGbnE3ffbyzoeDTBoRR5n8am1W5/view?usp=sharing",
+        "titulo": "Google Drive",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 19:14:07",
+        "updated_at": "2026-05-13 19:14:07"
+      },
+      {
+        "id": "143",
+        "proyecto_id": "55",
+        "tipo": "github",
+        "url": "https://github.com/Zito0os/Pinguin_Snow_Battle",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 19:14:07",
+        "updated_at": "2026-05-13 19:14:07"
+      }
+    ],
+    "team": [
+      {
+        "name": "LEO JORDAN AMBRIZ GUTIERREZ",
+        "is_leader": true
+      },
+      {
+        "name": "ALEXANDRA CARDENAS TAMEZ",
+        "is_leader": false
+      },
+      {
+        "name": "OLIVER CERVANTES GOMEZ",
+        "is_leader": false
+      },
+      {
+        "name": "MARIA ADRIANA FUENTES AGUILAR",
+        "is_leader": false
+      }
+    ],
+    "subject": "PROGRAMACION EN ENTRONOS TRIDIMENCIONALES",
+    "category": "Videojuegos"
+  },
+  {
+    "id": "56",
+    "name": "Ticket Rush Chaos City",
+    "description": "Este es un videojuego de aventura cómica y caos urbano en el que el jugador deberá conseguir boletos para llegar al partido a tiempo mientras la ciudad se convierte en su patio de juegos en medio de su aventura. Con mecánicas de exploración, persecución y destrucción divertida, el juego busca ofrecer una experiencia entretenida y llena de humor para pasar un buen rato.",
+    "status": "aprobado",
+    "cover": {
+      "id": "140",
+      "proyecto_id": "56",
+      "tipo": "imagen",
+      "url": "proyectos/posters/ticket-rush-chaos-city.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-13 19:13:32",
+      "updated_at": "2026-05-13 19:16:39"
+    },
+    "videos": [
+      {
+        "id": "144",
+        "proyecto_id": "56",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/03JvwJTEpxI",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 19:16:39",
+        "updated_at": "2026-05-13 19:16:39"
+      }
+    ],
+    "other_links": [
+      {
+        "id": "145",
+        "proyecto_id": "56",
+        "tipo": "github",
+        "url": "https://1drv.ms/f/c/d745e375eb63fa0d/IgDBnwg7pzTJTaPTzVhkKWIoAXyJPcxB8-TRXK85tq1D4bc?e=Aov1n2",
+        "titulo": "Repositorio GitHub",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 19:16:39",
+        "updated_at": "2026-05-13 19:16:39"
+      }
+    ],
+    "team": [
+      {
+        "name": "CARLOS EMILIO PUENTE TAVAREZ",
+        "is_leader": false
+      },
+      {
+        "name": "MARIO ALBERTO SANCHEZ HERNANDEZ",
+        "is_leader": false
+      },
+      {
+        "name": "MARICARMEN CABRERA GOMEZ",
+        "is_leader": true
+      }
+    ],
+    "subject": "OPTIMIZACION DE VIDEOJUEGOS",
+    "category": "Videojuegos"
+  },
+  {
+    "id": "57",
+    "name": "Ratones Gladiadores",
+    "description": "Ratones Gladiadores es un videojuego de combate multijugador ambientado en una antigua Roma reimaginada. Al morir el emperador, el trono vacante desata un conflicto global. Los jugadores eligen sus guerreros de cuatro naciones, para reclamar el imperio mediante la fuerza y la estrategia en la arena.",
+    "status": "aprobado",
+    "cover": {
+      "id": "146",
+      "proyecto_id": "57",
+      "tipo": "imagen",
+      "url": "proyectos/posters/ratones-gladiadores.webp",
+      "titulo": "Portada Oficial",
+      "descripcion": null,
+      "es_portada": "1",
+      "deleted_at": null,
+      "created_at": "2026-05-13 19:18:46",
+      "updated_at": "2026-05-13 19:21:25"
+    },
+    "videos": [
+      {
+        "id": "147",
+        "proyecto_id": "57",
+        "tipo": "youtube",
+        "url": "https://www.youtube.com/embed/uEpr03_CqwY",
+        "titulo": "Video Demo",
+        "descripcion": null,
+        "es_portada": "0",
+        "deleted_at": null,
+        "created_at": "2026-05-13 19:21:25",
+        "updated_at": "2026-05-13 19:21:25"
+      }
+    ],
+    "other_links": [],
+    "team": [
+      {
+        "name": "ANGELES MONSERRAT CARRANZA CHIMAL",
+        "is_leader": false
+      },
+      {
+        "name": "JORGE PABLO FLORES BLANCO",
+        "is_leader": false
+      },
+      {
+        "name": "JESUS SEBASTIAN MONTOYA VELAZCO",
+        "is_leader": false
+      },
+      {
+        "name": "GRECIA MARLEN SEGOVIA ARENAS",
+        "is_leader": true
+      },
+      {
+        "name": "VANESSA ALEJANDRA REYES JUAREZ",
+        "is_leader": false
+      }
+    ],
+    "subject": "DISEÑO DE VIDEOJUEGOS EN LINEA",
+    "category": "Videojuegos"
+  }
+]
