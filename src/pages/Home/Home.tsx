@@ -5,7 +5,7 @@ import styles from './Home.module.css';
 
 const PAGE_SIZE = 16; // 4 × 4 grid
 
-const CATEGORIES = ['Todos', 'Programación', 'Arte', 'Videojuegos', 'Realidad Virtual', 'fundamental'];
+const CATEGORIES = ['Todos', 'Programación', 'Arte', 'Videojuegos', 'Realidad Virtual'];
 
 function Home() {
   const [activeCategory, setActiveCategory] = createSignal<string>('Todos');

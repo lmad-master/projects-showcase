@@ -1,5 +1,6 @@
 import { useNavigate } from '@solidjs/router';
 import type { Project } from '../../types';
+
 import { mediaUrl } from '../../utils/media';
 import styles from './ProjectCard.module.css';
 
