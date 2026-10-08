@@ -10,6 +10,7 @@
     "serve": "vite preview"
   },
   "license": "MIT",
+  "packageManager": "pnpm@10.33.0",
   "devDependencies": {
     "solid-devtools": "^0.34.3",
     "typescript": "^5.7.2",
