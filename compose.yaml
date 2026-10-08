@@ -4,7 +4,7 @@ services:
       context: .
       dockerfile: Containerfile
       args:
-        BASE_PATH: /projects-showcase/
+        BASE_PATH: /projects-showcase
     image: localhost/projects-showcase:latest
     container_name: projects-showcase
     ports:
