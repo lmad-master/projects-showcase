@@ -17,7 +17,7 @@ if (import.meta.env.DEV && !(root instanceof HTMLElement)) {
 }
 
 render(() => (
-  <Router root={App}>
+  <Router root={App} base={import.meta.env.BASE_URL}>
     <Route path={"/"} component={Home} />
     <Route path={"/project/:id"} component={ProjectDetail} />
     <Route path={"*paramName"} component={NotFound} />

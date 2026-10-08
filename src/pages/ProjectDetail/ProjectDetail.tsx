@@ -54,7 +54,7 @@ function ProjectDetail() {
     const c = project()?.cover;
     if (!c) return null;
     if (c.url.startsWith('http')) return c.url;
-    return `/storage/${c.url}`;
+    return `${import.meta.env.BASE_URL}storage/${c.url}`;
   });
 
   return (
