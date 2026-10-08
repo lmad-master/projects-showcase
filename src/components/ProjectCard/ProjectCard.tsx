@@ -1,5 +1,6 @@
 import { useNavigate } from '@solidjs/router';
 import type { Project } from '../../types';
+import { mediaUrl } from '../../utils/media';
 import styles from './ProjectCard.module.css';
 
 interface Props {
@@ -22,8 +23,7 @@ function ProjectCard(props: Props) {
   const coverUrl = () => {
     const c = props.project.cover;
     if (!c) return null;
-    if (c.url.startsWith('http')) return c.url;
-    return `${import.meta.env.BASE_URL}/storage/${c.url}`;
+    return mediaUrl(c.url);
   };
 
   const icon = () =>

@@ -2,6 +2,7 @@ import { createSignal, createMemo, For, Show } from 'solid-js';
 import { useNavigate, useParams } from '@solidjs/router';
 import allProjects from '../../data/projects';
 import type { MultimediaItem } from '../../types';
+import { mediaUrl } from '../../utils/media';
 import styles from './ProjectDetail.module.css';
 
 const LINK_ICONS: Record<string, string> = {
@@ -53,8 +54,7 @@ function ProjectDetail() {
   const coverUrl = createMemo(() => {
     const c = project()?.cover;
     if (!c) return null;
-    if (c.url.startsWith('http')) return c.url;
-    return `${import.meta.env.BASE_URL}storage/${c.url}`;
+    return mediaUrl(c.url);
   });
 
   return (
